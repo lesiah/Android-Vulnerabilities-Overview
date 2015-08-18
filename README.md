@@ -49,6 +49,11 @@ Rolling out to manufacturers and carriers
 - [x] [[CVE-2015-3824](https://blog.exodusintel.com/2015/08/13/stagefright-mission-accomplished/)] Stagefright, some providers like telecom disabled the entire MMS service
 
 
+Warning
+--------
+
+* Do not install security updates like _CVE-2015-1538.apk_ from untrusted sources! It's a trap! Security updates are rolled out by Google Play-services or as ROM directly from your provider and never comes as APK or in any other form!
+
 
 Research
 --------
