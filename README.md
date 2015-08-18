@@ -28,10 +28,10 @@ Closed
 - [x] CVE-2015-1538
 - [x] CVE-2015-1539
 - [x] CVE-2015-3824 Android from 4.0.1 to 5.1.1
-- [x] CVE-2015-3864
+- [x] [CVE-2015-3864](http://home.mcafee.com/VirusInfo/VirusProfile.aspx?key=9609519)
 - [x] CVE-2015-3823 Android from 4.0.1 to 5.1.1
+- [x] [CVE-2015-0204](https://freakattack.com/) all systems, aka Freak attack
 - [x] 
-- [x]
 - [x] 
 - [x] 
 - [x] 
@@ -47,6 +47,7 @@ Rolling out to manufacturers and carriers
 --------
 
 - [x] [[CVE-2015-3824](https://blog.exodusintel.com/2015/08/13/stagefright-mission-accomplished/)] Stagefright, some providers like telecom disabled the entire MMS service
+- [x] CVE-2015-0235 pending
 
 
 Warning
@@ -58,7 +59,9 @@ Warning
 Research
 --------
 
+* [Security | Android Open Source Project](https://source.android.com/devices/tech/security/)
+* [Crypzo Standard EDU](https://crypto.stanford.edu)
 * [Common Vulnerabilities and Exposures (CVE®) – Android](http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=android)
 * [Android - CVE Details](http://www.cvedetails.com/product/19997/Google-Android.html?vendor_id=1224)
 * [All vulnerabilities - Android Vulnerabilities](http://www.androidvulnerabilities.org/all)
-
+* [SecurityWeek](http:/www.securityweek.com)
