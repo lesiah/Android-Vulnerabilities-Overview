@@ -1,12 +1,10 @@
-# Android-Vulnerability-Overview
+# Android-Vulnerabilities-Overview
 
-An smart overview of known Android security problems 
-
-
+A small list of security vulnerabilities in Android
 
 
-2015
---------
+
+***2015***
 
 
 Open 
@@ -23,7 +21,7 @@ Closed
 - [x] [CVE-2015-5084](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-5084)
 - [x] [CVE-2015-4171](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-4171)
 - [x] [CVE-2015-3906](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-3906)
-- [x] 
+- [x] [CVE-2015-1474](http://www.cvedetails.com/cve/CVE-2015-1474/)
 - [x]
 - [x] 
 - [x] 
@@ -43,7 +41,7 @@ Closed
 Rolling out to manufacturers and carriers
 --------
 
-- [x] Stagefright
+- [x] Stagefright, some providers like telecom disabled the entire MMS service
 
 
 
