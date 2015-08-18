@@ -3,6 +3,8 @@
 Android vulnerabilities overview (AVO) is a small list of security vulnerabilities in Android
 
 
+Found something that isn't on the list? - Feel free to submit, maintainers are always welcome! 
+
 
 ***2015***
 
@@ -25,9 +27,9 @@ Closed
 - [x] [CVE-2015-1474](http://www.cvedetails.com/cve/CVE-2015-1474/)
 - [x] CVE-2015-1538
 - [x] CVE-2015-1539
-- [x] CVE-2015-3824
+- [x] CVE-2015-3824 Android from 4.0.1 to 5.1.1
 - [x] CVE-2015-3864
-- [x] 
+- [x] CVE-2015-3823 Android from 4.0.1 to 5.1.1
 - [x] 
 - [x]
 - [x] 
