@@ -31,16 +31,6 @@ Closed
 - [x] [CVE-2015-3864](http://home.mcafee.com/VirusInfo/VirusProfile.aspx?key=9609519)
 - [x] CVE-2015-3823 Android from 4.0.1 to 5.1.1
 - [x] [CVE-2015-0204](https://freakattack.com/) all systems, aka Freak attack
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x]
-- [x] 
-- [x] 
-
 
 
 Rolling out to manufacturers and carriers
