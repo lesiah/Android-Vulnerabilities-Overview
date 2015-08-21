@@ -1,6 +1,4 @@
-# Android-Vulnerabilities-Overview
-
-Android vulnerabilities overview (AVO) is a small list of security vulnerabilities in Android
+Android vulnerabilities overview (AVO) is a small list of security vulnerabilities in Android.
 
 
 Contact
@@ -8,12 +6,21 @@ Contact
 
 Found something that isn't on the list? - Feel free to submit, maintainers are always welcome! 
 
+Want to communicate secure, feel free - my eMail is stored in the 'eMail.txt' file.
+
+
+
+Warning
+--------
+
+* Do not install security updates like _CVE-2015-1538.apk_ from untrusted sources! It's a trap! Security updates are rolled out by Google Play-services or as ROM directly from your provider and never comes as single APK!
+
 
 
 ***2015***
 
 
-Open 
+Open
 --------
 
 - [ ] [CVE-2015-3825](https://securityintelligence.com/one-class-to-rule-them-all-new-android-serialization-vulnerability-gives-underprivileged-apps-super-status/)
@@ -44,18 +51,24 @@ Rolling out to manufacturers and carriers
 - [x] CVE-2015-0235 pending
 
 
-Warning
---------
-
-* Do not install security updates like _CVE-2015-1538.apk_ from untrusted sources! It's a trap! Security updates are rolled out by Google Play-services or as ROM directly from your provider and never comes as APK or in any other form!
-
 
 Research
 --------
 
+* [SecurityWeek](http:/www.securityweek.com)
 * [Security | Android Open Source Project](https://source.android.com/devices/tech/security/)
 * [Crypzo Standard EDU](https://crypto.stanford.edu)
-* [Common Vulnerabilities and Exposures (CVE®) – Android](http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=android)
+* [Common Vulnerabilities and Exposures (CVE®) for Android](http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=android)
 * [Android - CVE Details](http://www.cvedetails.com/product/19997/Google-Android.html?vendor_id=1224)
 * [All vulnerabilities - Android Vulnerabilities](http://www.androidvulnerabilities.org/all)
-* [SecurityWeek](http:/www.securityweek.com)
+* https://source.android.com/devices/tech/index.html
+* https://source.android.com/devices/tech/security/enhancements/enhancements44.html
+* https://source.android.com/devices/tech/security/overview/app-security.html
+* https://source.android.com/devices/tech/security/overview/updates-resources.html
+* https://source.android.com/devices/tech/security/enhancements/index.html
+* https://source.android.com/devices/tech/security/overview/acknowledgements.html
+
+
+Kernel:
+* https://source.android.com/devices/tech/kernel.html
+* https://source.android.com/devices/tech/security/overview/kernel-security.html
