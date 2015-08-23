@@ -4,7 +4,7 @@ Android vulnerabilities overview (AVO) is a small list of security vulnerabiliti
 Contact
 ------------
 
-Found something that isn't on the list? - Feel free to submit, maintainers are always welcome! 
+Found something that isn't on the list? - Feel free to submit, maintainers/contributors are always welcome! 
 
 Want to communicate secure, feel free - my eMail is stored in the 'eMail.txt' file.
 
