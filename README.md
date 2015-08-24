@@ -26,7 +26,7 @@ Open
 - [ ] [CVE-2015-3825](https://securityintelligence.com/one-class-to-rule-them-all-new-android-serialization-vulnerability-gives-underprivileged-apps-super-status/)
 - [ ] [CVE-2015-3842](http://blog.trendmicro.com/trendlabs-security-intelligence/mediaserver-takes-another-hit-with-latest-android-vulnerability/) Android 2.3 Gingerbread to Android 5.1.1 Lollipop
 - [ ] [Stagefright] (http://blog.zimperium.com/experts-found-a-unicorn-in-the-heart-of-android/) ~ 95% of all Android devices running version 2.2 to 5.1
-- [ ] SS7, which is unfortunately vulnerable affect everyone (Man-in-the-Middle" (MitM) attacks) 
+- [ ] SS7, which is unfortunately vulnerable affect everyone (Man-in-the-Middle" (MitM) attacks)
 
 
 Closed
@@ -50,7 +50,9 @@ Rolling out to manufacturers and carriers
 
 - [x] [[CVE-2015-3824](https://blog.exodusintel.com/2015/08/13/stagefright-mission-accomplished/)] Stagefright, some providers like telecom disabled the entire MMS service
 - [x] CVE-2015-0235 pending
-
+- [x] CVE-2015-3829
+- [x] CVE-2015-3828
+- [x] CVE-2015-3827
 
 
 Research
@@ -74,3 +76,7 @@ Research
 Kernel:
 * https://source.android.com/devices/tech/kernel.html
 * https://source.android.com/devices/tech/security/overview/kernel-security.html
+
+
+Apps:
+* [Stagefright Detector App by Zimperium](https://play.google.com/store/apps/details?id=com.zimperium.stagefrightdetector)
