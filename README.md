@@ -1,6 +1,9 @@
 Android vulnerabilities overview (AVO) is a small list of security vulnerabilities in Android.
 
 
+
+_The security flaw gives hacker ability to spy on Android smartphone owners, steal login credentials, install malware, and many more, according to the latest research conducted by the researchers at the Pennsylvania State University and FireEye._
+
 Contact
 ------------
 
