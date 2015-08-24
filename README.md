@@ -71,6 +71,31 @@ Research
 * https://source.android.com/devices/tech/security/overview/updates-resources.html
 * https://source.android.com/devices/tech/security/enhancements/index.html
 * https://source.android.com/devices/tech/security/overview/acknowledgements.html
+* ﻿[Security with HTTPS and SSL | Android Developers](https://developer.android.com/training/articles/security-ssl.html)
+
+
+Papers:
+* http://www.mcafee.com/us/resources/white-papers/wp-defeating-ssl-cert-validation.pdf
+
+
+Online tests:
+* [FREAK test](https://freakattack.com/)
+* [Panopticlick](https://panopticlick.eff.org/)
+* [www.filldisk.com](http://www.filldisk.com/)
+* [SSL Client Test](https://www.ssllabs.com/ssltest/viewMyClient.html)
+* [Evercookie](http://samy.pl/evercookie/)
+* [BrowserSpy.dk](http://browserspy.dk/)
+* [Testing mixed content](https://people.mozilla.org/~tvyas/mixedcontent.html)
+* [WebRTC check](http://mozilla.github.io/webrtc-landing/)
+* <s>[Adobe Flash player version detector](https://www.adobe.com/software/flash/about/) no Flash since Android 4.x</s>
+* [IP check](http://ip-check.info/?lang=en)
+* http://cure53.de/leak/onion.php
+* [browserrecon](http://www.computec.ch/projekte/browserrecon/)??
+* [WebGL check](http://get.webgl.org/)
+* [battery.js](https://pstadler.sh/battery.js/)
+* [RC4 fallback test](https://rc4.io/)
+* [Battery API](https://robnyman.github.io/battery/)
+
 
 
 Kernel:
