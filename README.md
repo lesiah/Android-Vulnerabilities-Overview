@@ -20,6 +20,15 @@ Warning
 ***2015***
 
 
+General attacks are:
+* Ransomware (User needs to confirm the device admin part)
+* Distributed Denial of Service (DDoS) 
+* [Cyber-attacks](https://en.wikipedia.org/wiki/Cyber-attack) like (mass) surveillance (e.g. directly on telecommunication infrastructures), worms, viruses, trojans, ...
+* Hijacking in Android is a common problem
+* Cyberterrorism
+
+
+
 Open
 --------
 
@@ -42,7 +51,8 @@ Closed
 - [x] CVE-2015-3824 Android from 4.0.1 to 5.1.1
 - [x] [CVE-2015-3864](http://home.mcafee.com/VirusInfo/VirusProfile.aspx?key=9609519)
 - [x] CVE-2015-3823 Android from 4.0.1 to 5.1.1
-- [x] [CVE-2015-0204](https://freakattack.com/) all systems, aka Freak attack
+- [x] [CVE-2015-0204](https://freakattack.com/) all systems, aka FREAK attack
+
 
 
 Rolling out to manufacturers and carriers
@@ -53,6 +63,7 @@ Rolling out to manufacturers and carriers
 - [x] CVE-2015-3829
 - [x] CVE-2015-3828
 - [x] CVE-2015-3827
+
 
 
 Research
@@ -75,11 +86,16 @@ Research
 * [CIS security overview](http://www.cisecurity.org/)
 * [Mozilla Security Blog](https://blog.mozilla.org/security/category/security/)
 * [Chomium Security FAQ](https://www.chromium.org/Home/chromium-security/security-faq#)
+* [Android Vulnerability overview | TheHackerNews](http://thehackernews.com/search/label/Android)
+
 
 
 
 Papers:
 * http://www.mcafee.com/us/resources/white-papers/wp-defeating-ssl-cert-validation.pdf
+* https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-ren-chuangang.pdf
+* http://www.pwc.com/en_US/us/financial-services/regulatory-services/publications/assets/sanctions-cyber-crime.pdf
+
 
 
 Online tests:
@@ -94,7 +110,7 @@ Online tests:
 * <s>[Adobe Flash player version detector](https://www.adobe.com/software/flash/about/) no Flash since Android 4.x</s>
 * [IP check](http://ip-check.info/?lang=en)
 * [CORS and WebSocket test](http://cure53.de/leak/onion.php)
-* [browserrecon](http://www.computec.ch/projekte/browserrecon/)
+* [Browserrecon](http://www.computec.ch/projekte/browserrecon/)
 * [WebGL check](http://get.webgl.org/)
 * [battery.js](https://pstadler.sh/battery.js/)
 * [RC4 fallback test](https://rc4.io/)
@@ -103,9 +119,20 @@ Online tests:
 
 
 Kernel:
-* https://source.android.com/devices/tech/kernel.html
-* https://source.android.com/devices/tech/security/overview/kernel-security.html
+* [Kernel Overview | Android Developers](https://source.android.com/devices/tech/kernel.html)
+* [Kernel Security Overview | Android Developers](https://source.android.com/devices/tech/security/overview/kernel-security.html)
+
 
 
 Apps:
 * [Stagefright Detector App by Zimperium](https://play.google.com/store/apps/details?id=com.zimperium.stagefrightdetector)
+* [TextSecure](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=en) (SMS encryption was removed)
+* [RedPhone](https://play.google.com/store/apps/details?id=org.thoughtcrime.redphone&hl=en) (Stores the private key on there servers)
+* [Crypt4All Lite (AES) - (Free File Encryption Software)](https://play.google.com/store/apps/details?id=com.codewell4.Crypt4AllLite)
+* [Orbot](https://play.google.com/store/apps/details?id=org.torproject.android) alias Tor for Android 
+* [(AppLock (Free Application Lock Utility)](https://play.google.com/store/apps/details?id=com.domobile.applock)
+* [App Ops (Free App Permission Manager)](https://play.google.com/store/apps/details?id=com.findsdk.apppermission) On Android 6 obsolete
+* [LastPass Password Manager Premium (Free)](https://play.google.com/store/apps/details?id=com.lastpass.lpandroid) personally I prefer [KeePass - alias KeePassDroid](https://play.google.com/store/apps/details?id=com.android.keepass&hl=en)
+* [K-9 Mail (Free Secure Email Encryption Software)](https://play.google.com/store/apps/details?id=com.fsck.k9&hl=en)
+
+
