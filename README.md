@@ -13,7 +13,7 @@ Want to communicate secure, feel free - my eMail is stored in the 'eMail.txt' fi
 Warning
 --------
 
-* Do not install security updates like _CVE-2015-1538.apk_ from untrusted sources! It's a trap! Security updates are rolled out by Google Play-services or as ROM directly from your provider and never comes as single APK!
+* Do not install security updates like _CVE-2015-1538.apk_ from untrusted sources! It's a trap! Security updates are rolled out by Google Play-services or as ROM directly from your provider and never comes as single .APK!
 
 
 
@@ -58,8 +58,9 @@ Rolling out to manufacturers and carriers
 Research
 --------
 
-* [SecurityWeek](http:/www.securityweek.com)
+* [News from SecurityWeek](http:/www.securityweek.com)
 * [Security | Android Open Source Project](https://source.android.com/devices/tech/security/)
+* ﻿[Security with HTTPS and SSL | Android Developers](https://developer.android.com/training/articles/security-ssl.html)
 * [Crypzo Standard EDU](https://crypto.stanford.edu)
 * [Common Vulnerabilities and Exposures (CVE®) for Android](http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=android)
 * [Android - CVE Details](http://www.cvedetails.com/product/19997/Google-Android.html?vendor_id=1224)
@@ -71,7 +72,10 @@ Research
 * https://source.android.com/devices/tech/security/overview/updates-resources.html
 * https://source.android.com/devices/tech/security/enhancements/index.html
 * https://source.android.com/devices/tech/security/overview/acknowledgements.html
-* ﻿[Security with HTTPS and SSL | Android Developers](https://developer.android.com/training/articles/security-ssl.html)
+* [CIS security overview](http://www.cisecurity.org/)
+* [Mozilla Security Blog](https://blog.mozilla.org/security/category/security/)
+* [Chomium Security FAQ](https://www.chromium.org/Home/chromium-security/security-faq#)
+
 
 
 Papers:
@@ -89,12 +93,12 @@ Online tests:
 * [WebRTC check](http://mozilla.github.io/webrtc-landing/)
 * <s>[Adobe Flash player version detector](https://www.adobe.com/software/flash/about/) no Flash since Android 4.x</s>
 * [IP check](http://ip-check.info/?lang=en)
-* http://cure53.de/leak/onion.php
-* [browserrecon](http://www.computec.ch/projekte/browserrecon/)??
+* [CORS and WebSocket test](http://cure53.de/leak/onion.php)
+* [browserrecon](http://www.computec.ch/projekte/browserrecon/)
 * [WebGL check](http://get.webgl.org/)
 * [battery.js](https://pstadler.sh/battery.js/)
 * [RC4 fallback test](https://rc4.io/)
-* [Battery API](https://robnyman.github.io/battery/)
+* [Battery API check](https://robnyman.github.io/battery/)
 
 
 
