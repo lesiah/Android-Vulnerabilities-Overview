@@ -147,3 +147,15 @@ Apps:
 * [K-9 Mail (Free Secure Email Encryption Software)](https://play.google.com/store/apps/details?id=com.fsck.k9&hl=en) - I prefer [K-@ Mail Pro](https://play.google.com/store/apps/details?id=com.onegravity.k10.pro2&hl=en) [it's based on K-9 Mail but with a _better_ gui]
 
 
+
+Forensics analysis software and apps:
+* [Androick](https://github.com/Flo354/Androick)
+* [Android Forensics Open Source Android Forensics App and Framework](https://github.com/viaforensics/android-forensics)
+* [Android Data Extractor Lite](https://github.com/mspreitz/ADEL)
+* [BitPim](http://www.bitpim.org/)
+* [LiME](https://github.com/504ensicsLabs/LiME)
+* [OSAF - Open Source Android Forensics](http://www.osaf-community.org/)
+* [P2P-ADB](https://github.com/kosborn/p2p-adb/)
+* [Appie](https://manifestsecurity.com/appie)
+* [Mobisec](http://sourceforge.net/projects/mobisec/)
+* [pySimReader](https://www.isecpartners.com/tools/mobile-security/pysimreader.aspx)
