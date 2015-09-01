@@ -43,6 +43,8 @@ Attacks
 Open
 --------
 
+- [ ] Google Maps API](https://cryptome.org/2015/07/HT-Google-Maps-API.pdf) (mostly after each new upgrade)
+- [ ] [Remote local compatibility check](https://cryptome.org/2015/07/ht-android-exploit.txt)
 - [ ] [CVE-2015-3825](https://securityintelligence.com/one-class-to-rule-them-all-new-android-serialization-vulnerability-gives-underprivileged-apps-super-status/)
 - [ ] [CVE-2015-3842](http://blog.trendmicro.com/trendlabs-security-intelligence/mediaserver-takes-another-hit-with-latest-android-vulnerability/) Android 2.3 Gingerbread to Android 5.1.1 Lollipop
 - [ ] [Stagefright] (http://blog.zimperium.com/experts-found-a-unicorn-in-the-heart-of-android/) ~ 95% of all Android devices running version 2.2 to 5.1
