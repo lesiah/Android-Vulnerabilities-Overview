@@ -86,7 +86,6 @@ Research
 * [Security | Android Open Source Project](https://source.android.com/devices/tech/security/)
 * ﻿[Security with HTTPS and SSL | Android Developers](https://developer.android.com/training/articles/security-ssl.html)
 * [Crypzo Standard EDU](https://crypto.stanford.edu)
-* [Common Vulnerabilities and Exposures (CVE®) for Android](http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=android)
 * [SS7 hack shown demonstrated to track anyone |60 Minutes](http://www.9jumpin.com.au/show/60minutes/stories/2015/august/phone-hacking/)
 * https://source.android.com/devices/tech/index.html
 * https://source.android.com/devices/tech/security/enhancements/enhancements44.html
@@ -164,6 +163,7 @@ Forensics analysis software and apps:
 
 
 Vulnerability Databases:
+* [Common Vulnerabilities and Exposures (CVE®) for Android](http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=android)
 * [Android - CVE Details](http://www.cvedetails.com/product/19997/Google-Android.html?vendor_id=1224)
 * [All vulnerabilities - Android Vulnerabilities](http://www.androidvulnerabilities.org/all)
 * [NVD](http://nvd.nist.gov/) - US National Vulnerability Database
