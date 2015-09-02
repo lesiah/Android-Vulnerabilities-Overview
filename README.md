@@ -87,8 +87,6 @@ Research
 * ﻿[Security with HTTPS and SSL | Android Developers](https://developer.android.com/training/articles/security-ssl.html)
 * [Crypzo Standard EDU](https://crypto.stanford.edu)
 * [Common Vulnerabilities and Exposures (CVE®) for Android](http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=android)
-* [Android - CVE Details](http://www.cvedetails.com/product/19997/Google-Android.html?vendor_id=1224)
-* [All vulnerabilities - Android Vulnerabilities](http://www.androidvulnerabilities.org/all)
 * [SS7 hack shown demonstrated to track anyone |60 Minutes](http://www.9jumpin.com.au/show/60minutes/stories/2015/august/phone-hacking/)
 * https://source.android.com/devices/tech/index.html
 * https://source.android.com/devices/tech/security/enhancements/enhancements44.html
@@ -162,3 +160,23 @@ Forensics analysis software and apps:
 * [Appie](https://manifestsecurity.com/appie)
 * [Mobisec](http://sourceforge.net/projects/mobisec/)
 * [pySimReader](https://www.isecpartners.com/tools/mobile-security/pysimreader.aspx)
+
+
+
+Vulnerability Databases:
+* [Android - CVE Details](http://www.cvedetails.com/product/19997/Google-Android.html?vendor_id=1224)
+* [All vulnerabilities - Android Vulnerabilities](http://www.androidvulnerabilities.org/all)
+* [NVD](http://nvd.nist.gov/) - US National Vulnerability Database
+* [CERT](http://www.us-cert.gov/) - US Computer Emergency Readiness Team
+* [OSVDB](http://osvdb.org/) - Open Sourced Vulnerability Database
+* [Bugtraq](http://www.securityfocus.com/) - Symantec SecurityFocus
+* [Exploit-DB](http://www.exploit-db.com/) - Offensive Security Exploit Database
+* [Fulldisclosure](http://seclists.org/fulldisclosure/) - Full Disclosure Mailing List
+* [MS Bulletin](https://technet.microsoft.com/security/bulletin/) - Microsoft Security Bulletin
+* [MS Advisory](https://technet.microsoft.com/security/advisory/) - Microsoft Security Advisories
+* [Inj3ct0r](http://1337day.com/) - Inj3ct0r Exploit Database
+* [Packet Storm](http://packetstormsecurity.com/) - Packet Storm Global Security Resource
+* [SecuriTeam](http://www.securiteam.com/) - Securiteam Vulnerability Information
+* [CXSecurity](http://cxsecurity.com/) - CSSecurity Bugtraq List
+* [Vulnerability Laboratory](http://www.vulnerability-lab.com/) - Vulnerability Research Laboratory
+* [ZDI](http://www.zerodayinitiative.com/) - Zero Day Initiative
