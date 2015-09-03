@@ -43,6 +43,7 @@ Attacks
 Open
 --------
 
+- [ ] [AppLock](https://blogs.securiteam.com/index.php/archives/2558)
 - [ ] Google Maps API](https://cryptome.org/2015/07/HT-Google-Maps-API.pdf) (mostly after each new upgrade)
 - [ ] [Remote local compatibility check](https://cryptome.org/2015/07/ht-android-exploit.txt)
 - [ ] [CVE-2015-3825](https://securityintelligence.com/one-class-to-rule-them-all-new-android-serialization-vulnerability-gives-underprivileged-apps-super-status/)
@@ -97,6 +98,7 @@ Research
 * [Mozilla Security Blog](https://blog.mozilla.org/security/category/security/)
 * [Chomium Security FAQ](https://www.chromium.org/Home/chromium-security/security-faq#)
 * [Android Vulnerability overview | TheHackerNews](http://thehackernews.com/search/label/Android)
+* [Beyond Security Team](https://blogs.securiteam.com/)
 
 
 
