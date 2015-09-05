@@ -119,14 +119,18 @@ Research
 
 
 
-Papers:
+Papers
+--------
+
 * http://www.mcafee.com/us/resources/white-papers/wp-defeating-ssl-cert-validation.pdf
 * https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-ren-chuangang.pdf
 * http://www.pwc.com/en_US/us/financial-services/regulatory-services/publications/assets/sanctions-cyber-crime.pdf
 
 
 
-Online tests:
+Online tests
+--------
+
 * [FREAK test](https://freakattack.com/)
 * [Panopticlick](https://panopticlick.eff.org/)
 * [www.filldisk.com](http://www.filldisk.com/)
@@ -146,13 +150,17 @@ Online tests:
 
 
 
-Kernel:
+Kernel
+--------
+
 * [Kernel Overview | Android Developers](https://source.android.com/devices/tech/kernel.html)
 * [Kernel Security Overview | Android Developers](https://source.android.com/devices/tech/security/overview/kernel-security.html)
 
 
 
-Apps:
+'Security' (pentesting) Apps
+--------
+
 * [Stagefright Detector App by Zimperium](https://play.google.com/store/apps/details?id=com.zimperium.stagefrightdetector)
 * [TextSecure](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=en) (SMS encryption was removed)
 * [RedPhone](https://play.google.com/store/apps/details?id=org.thoughtcrime.redphone&hl=en) (Stores the private key on there servers)
@@ -166,7 +174,9 @@ Apps:
 
 
 
-Forensics analysis software and apps:
+Forensics analysis software and apps
+--------
+
 * [Androick](https://github.com/Flo354/Androick)
 * [Android Forensics Open Source Android Forensics App and Framework](https://github.com/viaforensics/android-forensics)
 * [Android Data Extractor Lite](https://github.com/mspreitz/ADEL)
@@ -181,7 +191,9 @@ Forensics analysis software and apps:
 
 
 
-Vulnerability Databases:
+Vulnerability Databases
+--------
+
 * [Common Vulnerabilities and Exposures (CVE®) for Android](http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=android)
 * [Android - CVE Details](http://www.cvedetails.com/product/19997/Google-Android.html?vendor_id=1224)
 * [All vulnerabilities - Android Vulnerabilities](http://www.androidvulnerabilities.org/all)
@@ -199,3 +211,10 @@ Vulnerability Databases:
 * [CXSecurity](http://cxsecurity.com/) - CSSecurity Bugtraq List
 * [Vulnerability Laboratory](http://www.vulnerability-lab.com/) - Vulnerability Research Laboratory
 * [ZDI](http://www.zerodayinitiative.com/) - Zero Day Initiative
+
+
+
+Pre-Installed Backdoors (within the firmware)
+----
+
+* CoolReaper
