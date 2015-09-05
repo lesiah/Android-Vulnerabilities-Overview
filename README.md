@@ -36,6 +36,21 @@ Attacks
 * ...
 
 
+Spyware Capabilities
+--------
+
+• Listening in to telephone conversations
+• Accessing the Internet
+• Viewing and copy contacts
+• Installing unwanted apps
+• Asking for location data
+• Taking and copying images
+• Recording conversations using the microphone
+• Sending and reading SMS/MMS
+• Disabling Anti-Virus software
+• Listening in to chats via messaging services (Skype, Viber, WhatsApp, Facebook and Google+)
+• Reading the browser history
+
 
 ***2015***
 
@@ -44,7 +59,7 @@ Open
 --------
 
 - [ ] [AppLock](https://blogs.securiteam.com/index.php/archives/2558)
-- [ ] Google Maps API](https://cryptome.org/2015/07/HT-Google-Maps-API.pdf) (mostly after each new upgrade)
+- [ ] [Google Maps API](https://cryptome.org/2015/07/HT-Google-Maps-API.pdf) (mostly after each new update)
 - [ ] [Remote local compatibility check](https://cryptome.org/2015/07/ht-android-exploit.txt)
 - [ ] [CVE-2015-3825](https://securityintelligence.com/one-class-to-rule-them-all-new-android-serialization-vulnerability-gives-underprivileged-apps-super-status/)
 - [ ] [CVE-2015-3842](http://blog.trendmicro.com/trendlabs-security-intelligence/mediaserver-takes-another-hit-with-latest-android-vulnerability/) Android 2.3 Gingerbread to Android 5.1.1 Lollipop
@@ -72,6 +87,7 @@ Closed
 Rolling out to manufacturers and carriers
 --------
 
+- [x] [26 Android Phone Models Shipped with Pre-Installed Spyware](https://www.gdatasoftware.co.uk/securitylabs/news/article/g-data-discovers-pre-installed-spyware-on-top-smartphones)
 - [x] [CVE-2015-3824](https://blog.exodusintel.com/2015/08/13/stagefright-mission-accomplished/)] Stagefright, some providers like telecom disabled the entire MMS service
 - [x] CVE-2015-0235 pending
 - [x] CVE-2015-3829
@@ -143,7 +159,7 @@ Apps:
 * [Crypt4All Lite (AES) - (Free File Encryption Software)](https://play.google.com/store/apps/details?id=com.codewell4.Crypt4AllLite)
 * [Orbot](https://play.google.com/store/apps/details?id=org.torproject.android) alias Tor for Android 
 * [(AppLock (Free Application Lock Utility)](https://play.google.com/store/apps/details?id=com.domobile.applock)
-* [App Ops (Free App Permission Manager)](https://play.google.com/store/apps/details?id=com.findsdk.apppermission) On Android 6 obsolete
+* [App Ops (Free App Permission Manager)](https://play.google.com/store/apps/details?id=com.findsdk.apppermission) On Android 6 (Marshmellow) obsolete
 * [LastPass Password Manager Premium (Free)](https://play.google.com/store/apps/details?id=com.lastpass.lpandroid) personally I prefer [KeePass - alias KeePassDroid](https://play.google.com/store/apps/details?id=com.android.keepass&hl=en)
 * [K-9 Mail (Free Secure Email Encryption Software)](https://play.google.com/store/apps/details?id=com.fsck.k9&hl=en) - I prefer [K-@ Mail Pro](https://play.google.com/store/apps/details?id=com.onegravity.k10.pro2&hl=en) [it's based on K-9 Mail but with a _better_ gui]
 * [Android open source apps overview | GitHub](https://github.com/pcqpcq/open-source-android-apps)
@@ -161,6 +177,7 @@ Forensics analysis software and apps:
 * [Appie](https://manifestsecurity.com/appie)
 * [Mobisec](http://sourceforge.net/projects/mobisec/)
 * [pySimReader](https://www.isecpartners.com/tools/mobile-security/pysimreader.aspx)
+* [Pixiewps]()
 
 
 
