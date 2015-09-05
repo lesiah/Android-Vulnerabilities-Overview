@@ -215,6 +215,17 @@ Vulnerability Databases
 
 
 Pre-Installed Backdoors (within the firmware)
-----
+--------
 
 * CoolReaper
+
+
+
+‘Stingrays’ Cell Phone Trackers
+--------
+
+Stingrays, made by the Harris Corporation, has capabilities to access user's unique IDs and phone numbers, track and record locations, and sometimes even intercept Internet traffic and phone calls, send fake texts and install spyware on phones. 
+The authorities used these tracking tools for years to breach people's privacy and did everything to keep even the existence of these devices out of the public eye. They even avoid telling judges when they used them.
+
+* [2015 FBI Statement](http://www.justice.gov/opa/pr/justice-department-announces-enhanced-policy-use-cell-site-simulators)
+* [Confirmation](https://www.aclu.org/news/aclu-comment-new-justice-department-guidelines-secretive-stingray-surveillance-devices) & [full source](http://www.justice.gov/opa/file/767321/download)
