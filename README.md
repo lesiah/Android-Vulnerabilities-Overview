@@ -217,7 +217,7 @@ Vulnerability Databases
 Pre-Installed Backdoors (within the firmware)
 --------
 
-* CoolReaper
+* CoolReaper (China and Taiwan)
 
 
 
