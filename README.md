@@ -62,7 +62,6 @@ Open
 - [ ] [Google Maps API](https://cryptome.org/2015/07/HT-Google-Maps-API.pdf) (mostly after each new update)
 - [ ] [Remote local compatibility check](https://cryptome.org/2015/07/ht-android-exploit.txt)
 - [ ] [CVE-2015-3825](https://securityintelligence.com/one-class-to-rule-them-all-new-android-serialization-vulnerability-gives-underprivileged-apps-super-status/)
-- [ ] [CVE-2015-3842](http://blog.trendmicro.com/trendlabs-security-intelligence/mediaserver-takes-another-hit-with-latest-android-vulnerability/) Android 2.3 Gingerbread to Android 5.1.1 Lollipop
 - [ ] [Stagefright] (http://blog.zimperium.com/experts-found-a-unicorn-in-the-heart-of-android/) ~ 95% of all Android devices running version 2.2 to 5.1
 - [ ] SS7, which is unfortunately vulnerable affect everyone (Man-in-the-Middle" (MitM) attacks)
 
@@ -90,6 +89,7 @@ Rolling out to manufacturers and carriers
 - [x] [26 Android Phone Models Shipped with Pre-Installed Spyware](https://www.gdatasoftware.co.uk/securitylabs/news/article/g-data-discovers-pre-installed-spyware-on-top-smartphones)
 - [x] [CVE-2015-3824](https://blog.exodusintel.com/2015/08/13/stagefright-mission-accomplished/)] Stagefright, some providers like telecom disabled the entire MMS service
 - [x] CVE-2015-0235 pending
+- [X] [CVE-2015-3842](http://blog.trendmicro.com/trendlabs-security-intelligence/mediaserver-takes-another-hit-with-latest-android-vulnerability/) Android 2.3 Gingerbread to Android 5.1.1 Lollipop [Patch](https://android.googlesource.com/platform/frameworks/av/+/aeea52da00d210587fb3ed895de3d5f2e0264c88)
 - [x] CVE-2015-3829
 - [x] CVE-2015-3828
 - [x] CVE-2015-3827
