@@ -95,8 +95,13 @@ Rolling out to manufacturers and carriers
 - [x] [Bypassing the Linux kernel for high-performance packet filtering (cloudflare)](https://blog.cloudflare.com/kernel-bypass/) - affects Linux and Android
 - [x] [26 Android Phone Models Shipped with Pre-Installed Spyware](https://www.gdatasoftware.co.uk/securitylabs/news/article/g-data-discovers-pre-installed-spyware-on-top-smartphones)
 - [x] [CVE-2015-3824](https://blog.exodusintel.com/2015/08/13/stagefright-mission-accomplished/)] Stagefright, some providers like telecom disabled the entire MMS service
+<<<<<<< HEAD
 - [x] CVE-2015-0235
 - [x] [CVE-2015-3842](http://blog.trendmicro.com/trendlabs-security-intelligence/mediaserver-takes-another-hit-with-latest-android-vulnerability/) Android 2.3 Gingerbread to Android 5.1.1 Lollipop
+=======
+- [x] CVE-2015-0235 pending
+- [X] [CVE-2015-3842](http://blog.trendmicro.com/trendlabs-security-intelligence/mediaserver-takes-another-hit-with-latest-android-vulnerability/) Android 2.3 Gingerbread to Android 5.1.1 Lollipop [Patch](https://android.googlesource.com/platform/frameworks/av/+/aeea52da00d210587fb3ed895de3d5f2e0264c88)
+>>>>>>> 94b19b659766a7469d46500a12cab886f02430bd
 - [x] CVE-2015-3829
 - [x] CVE-2015-3828
 - [x] CVE-2015-3827
@@ -298,6 +303,7 @@ Pre-Installed Backdoors (within the firmware)
 Stingrays, made by the Harris Corporation, has capabilities to access user's unique IDs and phone numbers, track and record locations, and sometimes even intercept Internet traffic and phone calls, send fake texts and install spyware on phones. 
 The authorities used these tracking tools for years to breach people's privacy and did everything to keep even the existence of these devices out of the public eye. They even avoid telling judges when they used them.
 
+<<<<<<< HEAD
 • [2015 FBI Statement](http://www.justice.gov/opa/pr/justice-department-announces-enhanced-policy-use-cell-site-simulators)
 • [Confirmation](https://www.aclu.org/news/aclu-comment-new-justice-department-guidelines-secretive-stingray-surveillance-devices) & [full source](http://www.justice.gov/opa/file/767321/download)
 
@@ -307,3 +313,7 @@ Firewall Leak Tests
 --------
 
 • Not avb. for Android? (only some common pages but not really proper designed for Android)
+=======
+* [2015 FBI Statement](http://www.justice.gov/opa/pr/justice-department-announces-enhanced-policy-use-cell-site-simulators)
+* [Confirmation](https://www.aclu.org/news/aclu-comment-new-justice-department-guidelines-secretive-stingray-surveillance-devices) & [full source](http://www.justice.gov/opa/file/767321/download)
+>>>>>>> 94b19b659766a7469d46500a12cab886f02430bd
