@@ -118,13 +118,15 @@ Rolling out to manufacturers and carriers
 
 
 
-Infected apps with Backdoors, loggers, Ransomware
+Infected apps with Backdoors, Loggers or Ransomware
 --------
 
 • [Adult Player](http://bitcoinist.net/adult-player-android-app-takes-photos-users-extorts-money/) (not avb. via Google Play Store)
 • FreePorn
 • [LockerPin](http://www.welivesecurity.com/2015/09/10/aggressive-android-ransomware-spreading-in-the-usa/) (Ransomware)
 • [Kemoge Malware which infects several apps]()https://www.fireeye.com/blog/threat-research/2015/10/kemoge_another_mobi.html), see all [affected apps](https://www.fireeye.com/blog/threat-research/2015/10/kemoge_another_mobi.html)
+• Ghost Push, Braintest, Guaranteed Clicks, RetroTetri based on [Kemoge Malware](http://www.cmcm.com/blog/en/security/2015-10-10/814.html)
+
 
 
 How to Get Rid of this Android Ransomware?

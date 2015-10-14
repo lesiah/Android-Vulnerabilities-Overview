@@ -1,0 +1,5 @@
+* Never click on suspicious links from emails or websites
+* Be careful what you download
+* Don’t install apps without reviewing them
+* Inspect each and every permission an Android app asks for
+* Keep your Android device updated
