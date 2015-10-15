@@ -193,6 +193,7 @@ Papers
 • [Fingerprinting Web Application Platforms by Variations in PNG Implementations [pdf] (github.com)](https://github.com/isislovecruft/library/blob/master/computer%20science%20theory/Fingerprinting%20Web%20Application%20Platforms%20by%20Variations%20in%20PNG%20Implementations%20%282015%29%20-%20Bongard.pdf)
 • https://mjanja.ch/2013/11/disabling-aes-ni-on-linux-openssl/
 • http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/Documentation/stable_api_nonsense.txt
+• [Security Metrics for the Android Ecosystem](https://www.cl.cam.ac.uk/~drt24/papers/spsm-scoring.pdf)
 
 
 
@@ -305,7 +306,6 @@ Pre-Installed Backdoors (within the firmware)
 Stingrays, made by the Harris Corporation, has capabilities to access user's unique IDs and phone numbers, track and record locations, and sometimes even intercept Internet traffic and phone calls, send fake texts and install spyware on phones. 
 The authorities used these tracking tools for years to breach people's privacy and did everything to keep even the existence of these devices out of the public eye. They even avoid telling judges when they used them.
 
-<<<<<<< HEAD
 • [2015 FBI Statement](http://www.justice.gov/opa/pr/justice-department-announces-enhanced-policy-use-cell-site-simulators)
 • [Confirmation](https://www.aclu.org/news/aclu-comment-new-justice-department-guidelines-secretive-stingray-surveillance-devices) & [full source](http://www.justice.gov/opa/file/767321/download)
 
@@ -315,7 +315,5 @@ Firewall Leak Tests
 --------
 
 • Not avb. for Android? (only some common pages but not really proper designed for Android)
-=======
-* [2015 FBI Statement](http://www.justice.gov/opa/pr/justice-department-announces-enhanced-policy-use-cell-site-simulators)
-* [Confirmation](https://www.aclu.org/news/aclu-comment-new-justice-department-guidelines-secretive-stingray-surveillance-devices) & [full source](http://www.justice.gov/opa/file/767321/download)
->>>>>>> 94b19b659766a7469d46500a12cab886f02430bd
+• [2015 FBI Statement](http://www.justice.gov/opa/pr/justice-department-announces-enhanced-policy-use-cell-site-simulators)
+• [Confirmation](https://www.aclu.org/news/aclu-comment-new-justice-department-guidelines-secretive-stingray-surveillance-devices) & [full source](http://www.justice.gov/opa/file/767321/download)
