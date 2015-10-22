@@ -192,6 +192,7 @@ Papers
 * https://mjanja.ch/2013/11/disabling-aes-ni-on-linux-openssl/
 * http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/Documentation/stable_api_nonsense.txt
 * [Security Metrics for the Android Ecosystem](https://www.cl.cam.ac.uk/~drt24/papers/spsm-scoring.pdf)
+* [Android Compatibility Definition Document v2015](https://static.googleusercontent.com/media/source.android.com/en//compatibility/android-cdd.pdf)
 
 
 
