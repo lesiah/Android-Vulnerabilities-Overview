@@ -68,7 +68,8 @@ Open
 - [ ] [CVE-2015-3825](https://securityintelligence.com/one-class-to-rule-them-all-new-android-serialization-vulnerability-gives-underprivileged-apps-super-status/)
 - [ ] [Stagefright] (http://blog.zimperium.com/experts-found-a-unicorn-in-the-heart-of-android/) ~ 95% of all Android devices running version 2.2 to 5.1
 - [ ] SS7, which is unfortunately vulnerable affect everyone (Man-in-the-Middle" (MitM) attacks)
-- [ ] [China’s awful internet speed has spread malware to millions of smartphones (qz.com)](http://qz.com/506582/chinas-awful-internet-speed-has-spread-malware-to-millions-of-smartphones) - several CVE?
+- [ ] [China’s awful internet speed has spread malware to millions of smartphones (qz.com)](http://qz.com/506582/chinas-awful-internet-speed-has-spread-malware-to-millions-of-smartphones) - several CVE's?
+
 
 
 Closed
@@ -88,6 +89,7 @@ Closed
 - [x] [CVE-2015-3860 Android 5.x Lockscreen Bypass (utexas.edu)](http://sites.utexas.edu/iso/2015/09/15/android-5-lockscreen-bypass/)
 - [x] No encryption support anymore [by default it's off] (and not any word if it comes back with Android M) Nexus 6 (common security issue without CVE since Google 'killed' it)
 - [x] [Nexus Security Bulletin (October 2015) - All Stagefighter + 2.0 CVE](https://groups.google.com/forum/#!topic/android-security-updates/_Rm-lKnS2M8)
+- [x] ANDROIDOS_WORMHOLE.HRXA Wormhole in Moplus SDK detected by [Trend Micro](http://blog.trendmicro.com/trendlabs-security-intelligence/setting-the-record-straight-on-moplus-sdk-and-the-wormhole-vulnerability/)
 
 
 
