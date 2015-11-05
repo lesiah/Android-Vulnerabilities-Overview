@@ -69,6 +69,7 @@ Open
 - [ ] [Stagefright] (http://blog.zimperium.com/experts-found-a-unicorn-in-the-heart-of-android/) ~ 95% of all Android devices running version 2.2 to 5.1
 - [ ] SS7, which is unfortunately vulnerable affect everyone (Man-in-the-Middle" (MitM) attacks)
 - [ ] [China’s awful internet speed has spread malware to millions of smartphones (qz.com)](http://qz.com/506582/chinas-awful-internet-speed-has-spread-malware-to-millions-of-smartphones) - several CVE's?
+- [ ] Memexploit, Framaroot & ExynosAbuse all based on the ShiftyBug, Shuanet and Shedun [families](https://blog.lookout.com/blog/2015/11/04/trojanized-adware/).
 
 
 
