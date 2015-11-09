@@ -3,3 +3,7 @@
 * Don’t install apps without reviewing them
 * Inspect each and every permission an Android app asks for
 * Keep your Android device updated
+
+
+Android Apps (once click solutions):
+* [Android Vulnerability Test Suite (VTS)](https://play.google.com/store/apps/details?id=com.nowsecure.android.vts) & [Source](https://github.com/nowsecure/android-vts)
