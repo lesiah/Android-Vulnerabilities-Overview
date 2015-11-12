@@ -123,6 +123,7 @@ Rolling out to manufacturers and carriers
 - [x] [CVE-2015-6602](https://blog.zimperium.com/zimperium-zlabs-is-raising-the-volume-new-vulnerability-processing-mp3mp4-media/) & [CVE-2015-3876](http://www.csoonline.com/article/2988156/mobile-security/new-android-vulnerabilities-put-over-a-billion-devices-at-risk-of-remote-hacking.html#tk.rss_all)
 - [x] CVE-2015-3636/pingpong
 - [x] Samsung WifiCredService remote code execution
+- [x] CVE-2015-3830 Stock [Android Browser Address Bar Spoofing](https://jsfiddle.net/dy4swq4o/)
 
 
 
