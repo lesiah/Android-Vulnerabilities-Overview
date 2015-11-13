@@ -61,7 +61,7 @@ Spyware Capabilities
 Open
 --------
 
-- [ ] Mediaserver bug (similar to Stagefighter) - CVE?
+- [ ] [Java-Script-v8-Engine exploit in Chrome Browser](http://www.theregister.co.uk/2015/11/12/mobile_pwn2own/), no CVE (yet?)
 - [ ] [AppLock](https://blogs.securiteam.com/index.php/archives/2558)
 - [ ] [Google Maps API](https://cryptome.org/2015/07/HT-Google-Maps-API.pdf) (mostly after each new update)
 - [ ] [Remote local compatibility check](https://cryptome.org/2015/07/ht-android-exploit.txt)
