@@ -91,10 +91,12 @@ Closed
 - [x] No encryption support anymore [by default it's off] (and not any word if it comes back with Android M) Nexus 6 (common security issue without CVE since Google 'killed' it)
 - [x] [Nexus Security Bulletin (October 2015) - All Stagefighter + 2.0 CVE](https://groups.google.com/forum/#!topic/android-security-updates/_Rm-lKnS2M8)
 - [x] ANDROIDOS_WORMHOLE.HRXA Wormhole in Moplus SDK detected by [Trend Micro](http://blog.trendmicro.com/trendlabs-security-intelligence/setting-the-record-straight-on-moplus-sdk-and-the-wormhole-vulnerability/)
-- [x] ZipBug 9950697
-- [x] ZipBug 8219321
-- [x] ZipBug 9695860
-- [x] OpenSSL509 Serialization Bug CVE-2015-3825
+- [x] ZipBug [9950697](https://github.com/Fuzion24/AndroidZipArbitrage#android-bug-9950697)
+- [x] ZipBug [8219321](https://github.com/Fuzion24/AndroidZipArbitrage#android-bug-8219321-aka-android-master-keys)
+- [x] ZipBug [9695860](https://github.com/Fuzion24/AndroidZipArbitrage#android-bug-9695860)
+- [x] OpenSSL509 [Serialization Bug CVE-2015-3825](https://securityintelligence.com/one-class-to-rule-them-all-new-android-serialization-vulnerability-gives-underprivileged-apps-super-status/)
+- [x] [StumpRoot](http://forum.xda-developers.com/lg-g3/orig-development/root-stump-root-lg-g3-sprint-verizon-t2850906)
+- [x] Jar Bug 13678484 / [Android FakeID](https://bluebox.com/android-fake-id-vulnerability/)
 
 
 
@@ -121,9 +123,10 @@ Rolling out to manufacturers and carriers
 - [x] Not Android specific (affects all systems) [CVE-2015-4499](https://blog.perimeterx.com/bugzilla-cve-2015-4499/)
 - [x] Crashing SystemUI will 'unlock' the phone, no single CVE, this is on different Android versions and devices ('keystore' service), similar to [iOS](http://www.cnet.com/news/apple-promises-fix-for-ios-6-passcode-exploit/)
 - [x] [CVE-2015-6602](https://blog.zimperium.com/zimperium-zlabs-is-raising-the-volume-new-vulnerability-processing-mp3mp4-media/) & [CVE-2015-3876](http://www.csoonline.com/article/2988156/mobile-security/new-android-vulnerabilities-put-over-a-billion-devices-at-risk-of-remote-hacking.html#tk.rss_all)
-- [x] CVE-2015-3636/pingpong
-- [x] Samsung WifiCredService remote code execution
+- [x] [CVE-2015-3636/pingpong](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2015-3636)
+- [x] [Samsung WifiCredService remote code execution](https://github.com/nowsecure/android-vts/blob/master/app/src/main/java/fuzion24/device/vulnerability/vulnerabilities/VulnerabilityOrganizer.java)
 - [x] CVE-2015-3830 Stock [Android Browser Address Bar Spoofing](https://jsfiddle.net/dy4swq4o/)
+- [x] [CVE-2015-1528 / GraphicsBufferOverflow](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2015-1528)
 
 
 
