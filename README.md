@@ -213,6 +213,7 @@ Videos
 --------
 
 * [This Mind-Blowing Hack allows Anyone to Control your Phone From 16 Feet Away](https://youtu.be/l9txd4a4tUE) (no CVE since this is by design from Google Now, but still a hack/problem)
+* ['Shedun' gaining accessibility service privileges](https://www.youtube.com/watch?v=VDWmEUm6mQM)
 
 
 
