@@ -283,6 +283,7 @@ In most cases Trojans/Malware only sending 'stuff' to there C&C's if you're on w
 * [Hush]()
 * [Android Vulnerability Test Suite (github.com)](https://github.com/nowsecure/android-vts)
 * [catch-it-quick  -  catch the firmware malware and spyware](https://code.google.com/p/catch-it-quick/)
+* [Google Remote Encryption and wipping function analyzed](http://manhattanda.org/sites/default/files/11.18.15%20Report%20on%20Smartphone%20Encryption%20and%20Public%20Safety.pdf) see ]here](https://plus.google.com/+AdrianLudwig/posts/JFPXLnV3M2f)
 
 
 
