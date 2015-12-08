@@ -97,22 +97,22 @@ Closed
 - [x] OpenSSL509 [Serialization Bug CVE-2015-3825](https://securityintelligence.com/one-class-to-rule-them-all-new-android-serialization-vulnerability-gives-underprivileged-apps-super-status/)
 - [x] [StumpRoot](http://forum.xda-developers.com/lg-g3/orig-development/root-stump-root-lg-g3-sprint-verizon-t2850906)
 - [x] Jar Bug 13678484 / [Android FakeID](https://bluebox.com/android-fake-id-vulnerability/)
-- Remote Code Execution Vulnerability in Mediaserver CVE-2015-6616 (Android 6.0.1)
-- Remote Code Execution Vulnerability in Skia CVE-2015-6617 (Android 6.0.1)
-- Elevation of Privilege in Kernel CVE-2015-6619 (Android 6.0.1)
-- Remote Code Execution Vulnerabilities in Display Driver CVE-2015-6634 & CVE-2015-6633 (Android 6.0.1)
-- Remote Code Execution Vulnerability in Bluetooth CVE-2015-6618 (Android 6.0.1)
-- Elevation of Privilege Vulnerabilities in libstagefright CVE-2015-6620 (Android 6.0.1)
-- Elevation of Privilege Vulnerability in SystemUI CVE-2015-6621 (Android 6.0.1)
-- Elevation of Privilege Vulnerability in Native Frameworks Library CVE-2015-6622 (Android 6.0.1)
-- Elevation of Privilege Vulnerability in Wi-Fi CVE-2015-6623 (Android 6.0.1)
-- Elevation of Privilege Vulnerability in System Server CVE-2015-6624 (Android 6.0.1)
-- Information Disclosure Vulnerabilities in libstagefright CVE-2015-6626 & CVE-2015-6631 & CVE-2015-6632 (Android 6.0.1)
-- Information Disclosure Vulnerability in Audio CVE-2015-6627 (Android 6.0.1)
-- Information Disclosure Vulnerability in Media Framework CVE-2015-6628 (Android 6.0.1)
-- Information Disclosure Vulnerability in Wi-Fi CVE-2015-6629 (Android 6.0.1)
-- Elevation of Privilege Vulnerability in System Server CVE-2015-6625 (Android 6.0.1)
-- Information Disclosure Vulnerability in SystemUI CVE-2015-6630 (Android 6.0.1)
+- [x] Remote Code Execution Vulnerability in Mediaserver CVE-2015-6616 (Android 6.0.1)
+- [x] Remote Code Execution Vulnerability in Skia CVE-2015-6617 (Android 6.0.1)
+- [x] Elevation of Privilege in Kernel CVE-2015-6619 (Android 6.0.1)
+- [x] Remote Code Execution Vulnerabilities in Display Driver CVE-2015-6634 & CVE-2015-6633 (Android 6.0.1)
+- [x] Remote Code Execution Vulnerability in Bluetooth CVE-2015-6618 (Android 6.0.1)
+- [x] Elevation of Privilege Vulnerabilities in libstagefright CVE-2015-6620 (Android 6.0.1)
+- [x] Elevation of Privilege Vulnerability in SystemUI CVE-2015-6621 (Android 6.0.1)
+- [x] Elevation of Privilege Vulnerability in Native Frameworks Library CVE-2015-6622 (Android 6.0.1)
+- [x] Elevation of Privilege Vulnerability in Wi-Fi CVE-2015-6623 (Android 6.0.1)
+- [x] Elevation of Privilege Vulnerability in System Server CVE-2015-6624 (Android 6.0.1)
+- [x] Information Disclosure Vulnerabilities in libstagefright CVE-2015-6626 & CVE-2015-6631 & CVE-2015-6632 (Android 6.0.1)
+- [x] Information Disclosure Vulnerability in Audio CVE-2015-6627 (Android 6.0.1)
+- [x] Information Disclosure Vulnerability in Media Framework CVE-2015-6628 (Android 6.0.1)
+- [x] Information Disclosure Vulnerability in Wi-Fi CVE-2015-6629 (Android 6.0.1)
+- [x] Elevation of Privilege Vulnerability in System Server CVE-2015-6625 (Android 6.0.1)
+- [x] Information Disclosure Vulnerability in SystemUI CVE-2015-6630 (Android 6.0.1)
 - [x] CVE-2015-3829 (Android 5.1.1)
 - [x] CVE-2015-3828 (Android 5.1.1)
 - [x] CVE-2015-3827 (Android 5.1.1)
@@ -123,13 +123,13 @@ Closed
 - [x] CVE-2015-3827, P0008, Google Stagefright ‘covr’ MP4 Atom Integer Underflow Remote Code Execution (Android 5.1.1)
 - [x] CVE-2015-1539, P0007, Google Stagefright ‘esds’ MP4 Atom Integer Underflow Remote Code Execution (Android 5.1.1)
 - [x] CVE-2015-1538, P0004, Google Stagefright ‘stss’ MP4 Atom Integer Overflow Remote Code Execution (Android 5.1.1)
+- [x] [Bypassing the Linux kernel for high-performance packet filtering (cloudflare)](https://blog.cloudflare.com/kernel-bypass/) - affects Linux and Android (Android 5.x)
 
 
 
 Rolling out to manufacturers and carriers
 --------
 
-- [x] [Bypassing the Linux kernel for high-performance packet filtering (cloudflare)](https://blog.cloudflare.com/kernel-bypass/) - affects Linux and Android
 - [x] [26 Android Phone Models Shipped with Pre-Installed Spyware](https://www.gdatasoftware.co.uk/securitylabs/news/article/g-data-discovers-pre-installed-spyware-on-top-smartphones)
 - [x] [CVE-2015-3824](https://blog.exodusintel.com/2015/08/13/stagefright-mission-accomplished/)] Stagefright, some providers like telecom disabled the entire MMS service
 - [x] CVE-2015-0235
