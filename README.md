@@ -113,6 +113,16 @@ Closed
 - Information Disclosure Vulnerability in Wi-Fi CVE-2015-6629 (Android 6.0.1)
 - Elevation of Privilege Vulnerability in System Server CVE-2015-6625 (Android 6.0.1)
 - Information Disclosure Vulnerability in SystemUI CVE-2015-6630 (Android 6.0.1)
+- [x] CVE-2015-3829 (Android 5.1.1)
+- [x] CVE-2015-3828 (Android 5.1.1)
+- [x] CVE-2015-3827 (Android 5.1.1)
+- [x] CVE-2015-3829, P0012, Google Stagefright ‘covr’ MP4 Atom Integer Overflow Remote Code Execution (Android 5.1.1)
+- [x] CVE-2015-3824, P0011, Google Stagefright ‘tx3g’ MP4 Atom Integer Overflow Remote Code Execution (Android 5.1.1)
+- [x] CVE-2015-3828, P0010, Google Stagefright 3GPP Integer Underflow Remote Code Execution (Android 5.1.1)
+- [x] CVE-2015-3826, P0009, Google Stagefright 3GPP Metadata Buffer Overread (Android 5.1.1)
+- [x] CVE-2015-3827, P0008, Google Stagefright ‘covr’ MP4 Atom Integer Underflow Remote Code Execution (Android 5.1.1)
+- [x] CVE-2015-1539, P0007, Google Stagefright ‘esds’ MP4 Atom Integer Underflow Remote Code Execution (Android 5.1.1)
+- [x] CVE-2015-1538, P0004, Google Stagefright ‘stss’ MP4 Atom Integer Overflow Remote Code Execution (Android 5.1.1)
 
 
 
@@ -126,17 +136,6 @@ Rolling out to manufacturers and carriers
 - [x] [CVE-2015-3842](http://blog.trendmicro.com/trendlabs-security-intelligence/mediaserver-takes-another-hit-with-latest-android-vulnerability/) Android 2.3 Gingerbread to Android 5.1.1 Lollipop
 - [x] CVE-2015-0235 pending
 - [X] [CVE-2015-3842](http://blog.trendmicro.com/trendlabs-security-intelligence/mediaserver-takes-another-hit-with-latest-android-vulnerability/) Android 2.3 Gingerbread to Android 5.1.1 Lollipop [Patch](https://android.googlesource.com/platform/frameworks/av/+/aeea52da00d210587fb3ed895de3d5f2e0264c88)
-- [x] CVE-2015-3829
-- [x] CVE-2015-3828
-- [x] CVE-2015-3827
-- [x] CVE-2015-3829, P0012, Google Stagefright ‘covr’ MP4 Atom Integer Overflow Remote Code Execution
-- [x] CVE-2015-3824, P0011, Google Stagefright ‘tx3g’ MP4 Atom Integer Overflow Remote Code Execution
-- [x] CVE-2015-3828, P0010, Google Stagefright 3GPP Integer Underflow Remote Code Execution
-- [x] CVE-2015-3826, P0009, Google Stagefright 3GPP Metadata Buffer Overread
-- [x] CVE-2015-3827, P0008, Google Stagefright ‘covr’ MP4 Atom Integer Underflow Remote Code Execution
-- [x] CVE-2015-1539, P0007, Google Stagefright ‘esds’ MP4 Atom Integer Underflow Remote Code Execution
-- [x] CVE-2015-1538, P0004, Google Stagefright ‘stss’ MP4 Atom Integer Overflow Remote Code Execution
-- [x] Not Android specific (affects all systems) [CVE-2015-4499](https://blog.perimeterx.com/bugzilla-cve-2015-4499/)
 - [x] Crashing SystemUI will 'unlock' the phone, no single CVE, this is on different Android versions and devices ('keystore' service), similar to [iOS](http://www.cnet.com/news/apple-promises-fix-for-ios-6-passcode-exploit/)
 - [x] [CVE-2015-6602](https://blog.zimperium.com/zimperium-zlabs-is-raising-the-volume-new-vulnerability-processing-mp3mp4-media/) & [CVE-2015-3876](http://www.csoonline.com/article/2988156/mobile-security/new-android-vulnerabilities-put-over-a-billion-devices-at-risk-of-remote-hacking.html#tk.rss_all)
 - [x] [CVE-2015-3636/pingpong](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2015-3636)
