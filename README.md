@@ -23,7 +23,6 @@ Warning
 * Do not install security updates like _CVE-2015-1538.apk_ from untrusted sources! It's a trap! Security updates are rolled out by Google Play-services or as ROM directly from your provider and never comes as single .APK!
 
 
-
 Attacks
 --------
 
@@ -36,7 +35,6 @@ Attacks
 * Based on fingerprinting to _sniff_ metadata
 * Other data leakage, exploits, ...
 *  ...
-
 
 
 Spyware Capabilities
@@ -53,96 +51,6 @@ Spyware Capabilities
 * Disabling Anti-Virus software
 * Listening in to chats via messaging services (Skype, Viber, WhatsApp, Facebook and Google+)
 * Reading the browser history
-
-
-***2015***
-
-
-Open
---------
-
-- [ ] [Perception Point](http://perception-point.io/2016/01/14/analysis-and-exploitation-of-a-linux-kernel-vulnerability-cve-2016-0728/) [CVE-2016-0728](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=2016-0728) 
-- [ ] [Java-Script-v8-Engine exploit in Chrome Browser](http://www.theregister.co.uk/2015/11/12/mobile_pwn2own/), no CVE (yet?)
-- [ ] [AppLock](https://blogs.securiteam.com/index.php/archives/2558)
-- [ ] [Google Maps API](https://cryptome.org/2015/07/HT-Google-Maps-API.pdf) (mostly after each new update)
-- [ ] [Remote local compatibility check](https://cryptome.org/2015/07/ht-android-exploit.txt)
-- [ ] [CVE-2015-3825](https://securityintelligence.com/one-class-to-rule-them-all-new-android-serialization-vulnerability-gives-underprivileged-apps-super-status/)
-- [ ] [Stagefright] (http://blog.zimperium.com/experts-found-a-unicorn-in-the-heart-of-android/) ~ 95% of all Android devices running version 2.2 to 5.1
-- [ ] SS7, which is unfortunately vulnerable affect everyone (Man-in-the-Middle" (MitM) attacks)
-- [ ] [China’s awful internet speed has spread malware to millions of smartphones (qz.com)](http://qz.com/506582/chinas-awful-internet-speed-has-spread-malware-to-millions-of-smartphones) - several CVE's?
-- [ ] Memexploit, Framaroot & ExynosAbuse all based on the ShiftyBug, Shuanet and Shedun [families](https://blog.lookout.com/blog/2015/11/04/trojanized-adware/).
-
-
-
-Closed
---------
-
-- [x] [CVE-2015-4945](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-4945)
-- [x] [CVE-2015-5084](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-5084)
-- [x] [CVE-2015-4171](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-4171)
-- [x] [CVE-2015-3906](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-3906)
-- [x] [CVE-2015-1474](http://www.cvedetails.com/cve/CVE-2015-1474/)
-- [x] CVE-2015-1538
-- [x] CVE-2015-1539
-- [x] CVE-2015-3824 Android from 4.0.1 to 5.1.1
-- [x] [CVE-2015-3864](http://home.mcafee.com/VirusInfo/VirusProfile.aspx?key=9609519)
-- [x] CVE-2015-3823 Android from 4.0.1 to 5.1.1
-- [x] [CVE-2015-0204](https://freakattack.com/) all systems, aka FREAK attack
-- [x] [CVE-2015-3860 Android 5.x Lockscreen Bypass (utexas.edu)](http://sites.utexas.edu/iso/2015/09/15/android-5-lockscreen-bypass/)
-- [x] No encryption support anymore [by default it's off] (and not any word if it comes back with Android M) Nexus 6 (common security issue without CVE since Google 'killed' it)
-- [x] [Nexus Security Bulletin (October 2015) - All Stagefighter + 2.0 CVE](https://groups.google.com/forum/#!topic/android-security-updates/_Rm-lKnS2M8)
-- [x] ANDROIDOS_WORMHOLE.HRXA Wormhole in Moplus SDK detected by [Trend Micro](http://blog.trendmicro.com/trendlabs-security-intelligence/setting-the-record-straight-on-moplus-sdk-and-the-wormhole-vulnerability/)
-- [x] ZipBug [9950697](https://github.com/Fuzion24/AndroidZipArbitrage#android-bug-9950697)
-- [x] ZipBug [8219321](https://github.com/Fuzion24/AndroidZipArbitrage#android-bug-8219321-aka-android-master-keys)
-- [x] ZipBug [9695860](https://github.com/Fuzion24/AndroidZipArbitrage#android-bug-9695860)
-- [x] OpenSSL509 [Serialization Bug CVE-2015-3825](https://securityintelligence.com/one-class-to-rule-them-all-new-android-serialization-vulnerability-gives-underprivileged-apps-super-status/)
-- [x] [StumpRoot](http://forum.xda-developers.com/lg-g3/orig-development/root-stump-root-lg-g3-sprint-verizon-t2850906)
-- [x] Jar Bug 13678484 / [Android FakeID](https://bluebox.com/android-fake-id-vulnerability/)
-- [x] Remote Code Execution Vulnerability in Mediaserver CVE-2015-6616 (Android 6.0.1)
-- [x] Remote Code Execution Vulnerability in Skia CVE-2015-6617 (Android 6.0.1)
-- [x] Elevation of Privilege in Kernel CVE-2015-6619 (Android 6.0.1)
-- [x] Remote Code Execution Vulnerabilities in Display Driver CVE-2015-6634 & CVE-2015-6633 (Android 6.0.1)
-- [x] Remote Code Execution Vulnerability in Bluetooth CVE-2015-6618 (Android 6.0.1)
-- [x] Elevation of Privilege Vulnerabilities in libstagefright CVE-2015-6620 (Android 6.0.1)
-- [x] Elevation of Privilege Vulnerability in SystemUI CVE-2015-6621 (Android 6.0.1)
-- [x] Elevation of Privilege Vulnerability in Native Frameworks Library CVE-2015-6622 (Android 6.0.1)
-- [x] Elevation of Privilege Vulnerability in Wi-Fi CVE-2015-6623 (Android 6.0.1)
-- [x] Elevation of Privilege Vulnerability in System Server CVE-2015-6624 (Android 6.0.1)
-- [x] Information Disclosure Vulnerabilities in libstagefright CVE-2015-6626 & CVE-2015-6631 & CVE-2015-6632 (Android 6.0.1)
-- [x] Information Disclosure Vulnerability in Audio CVE-2015-6627 (Android 6.0.1)
-- [x] Information Disclosure Vulnerability in Media Framework CVE-2015-6628 (Android 6.0.1)
-- [x] Information Disclosure Vulnerability in Wi-Fi CVE-2015-6629 (Android 6.0.1)
-- [x] Elevation of Privilege Vulnerability in System Server CVE-2015-6625 (Android 6.0.1)
-- [x] Information Disclosure Vulnerability in SystemUI CVE-2015-6630 (Android 6.0.1)
-- [x] CVE-2015-3829 (Android 5.1.1)
-- [x] CVE-2015-3828 (Android 5.1.1)
-- [x] CVE-2015-3827 (Android 5.1.1)
-- [x] CVE-2015-3829, P0012, Google Stagefright ‘covr’ MP4 Atom Integer Overflow Remote Code Execution (Android 5.1.1)
-- [x] CVE-2015-3824, P0011, Google Stagefright ‘tx3g’ MP4 Atom Integer Overflow Remote Code Execution (Android 5.1.1)
-- [x] CVE-2015-3828, P0010, Google Stagefright 3GPP Integer Underflow Remote Code Execution (Android 5.1.1)
-- [x] CVE-2015-3826, P0009, Google Stagefright 3GPP Metadata Buffer Overread (Android 5.1.1)
-- [x] CVE-2015-3827, P0008, Google Stagefright ‘covr’ MP4 Atom Integer Underflow Remote Code Execution (Android 5.1.1)
-- [x] CVE-2015-1539, P0007, Google Stagefright ‘esds’ MP4 Atom Integer Underflow Remote Code Execution (Android 5.1.1)
-- [x] CVE-2015-1538, P0004, Google Stagefright ‘stss’ MP4 Atom Integer Overflow Remote Code Execution (Android 5.1.1)
-- [x] [Bypassing the Linux kernel for high-performance packet filtering (cloudflare)](https://blog.cloudflare.com/kernel-bypass/) - affects Linux and Android (Android 5.x)
-
-
-
-Rolling out to manufacturers and carriers
---------
-
-- [x] [26 Android Phone Models Shipped with Pre-Installed Spyware](https://www.gdatasoftware.co.uk/securitylabs/news/article/g-data-discovers-pre-installed-spyware-on-top-smartphones)
-- [x] [CVE-2015-3824](https://blog.exodusintel.com/2015/08/13/stagefright-mission-accomplished/)] Stagefright, some providers like telecom disabled the entire MMS service
-- [x] CVE-2015-0235
-- [x] [CVE-2015-3842](http://blog.trendmicro.com/trendlabs-security-intelligence/mediaserver-takes-another-hit-with-latest-android-vulnerability/) Android 2.3 Gingerbread to Android 5.1.1 Lollipop
-- [x] CVE-2015-0235 pending
-- [X] [CVE-2015-3842](http://blog.trendmicro.com/trendlabs-security-intelligence/mediaserver-takes-another-hit-with-latest-android-vulnerability/) Android 2.3 Gingerbread to Android 5.1.1 Lollipop [Patch](https://android.googlesource.com/platform/frameworks/av/+/aeea52da00d210587fb3ed895de3d5f2e0264c88)
-- [x] Crashing SystemUI will 'unlock' the phone, no single CVE, this is on different Android versions and devices ('keystore' service), similar to [iOS](http://www.cnet.com/news/apple-promises-fix-for-ios-6-passcode-exploit/)
-- [x] [CVE-2015-6602](https://blog.zimperium.com/zimperium-zlabs-is-raising-the-volume-new-vulnerability-processing-mp3mp4-media/) & [CVE-2015-3876](http://www.csoonline.com/article/2988156/mobile-security/new-android-vulnerabilities-put-over-a-billion-devices-at-risk-of-remote-hacking.html#tk.rss_all)
-- [x] [CVE-2015-3636/pingpong](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2015-3636)
-- [x] [Samsung WifiCredService remote code execution](https://github.com/nowsecure/android-vts/blob/master/app/src/main/java/fuzion24/device/vulnerability/vulnerabilities/VulnerabilityOrganizer.java)
-- [x] CVE-2015-3830 Stock [Android Browser Address Bar Spoofing](https://jsfiddle.net/dy4swq4o/)
-- [x] [CVE-2015-1528 / GraphicsBufferOverflow](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2015-1528)
 
 
 
@@ -210,7 +118,6 @@ Research
 * [The Android device fragmentation is getting, beautifully, out of control (opensignal.com)](http://opensignal.com/reports/2015/08/android-fragmentation/)
 
 
-
 Papers
 --------
 
@@ -224,13 +131,11 @@ Papers
 * [Android Compatibility Definition Document v2015](https://static.googleusercontent.com/media/source.android.com/en//compatibility/android-cdd.pdf)
 
 
-
 Videos
 --------
 
 * [This Mind-Blowing Hack allows Anyone to Control your Phone From 16 Feet Away](https://youtu.be/l9txd4a4tUE) (no CVE since this is by design from Google Now, but still a hack/problem)
 * ['Shedun' gaining accessibility service privileges](https://www.youtube.com/watch?v=VDWmEUm6mQM)
-
 
 
 Online tests
@@ -263,7 +168,6 @@ Kernel
 * [Kernel Security Overview | Android Developers](https://source.android.com/devices/tech/security/overview/kernel-security.html)
 
 
-
 'Security' (pentesting) Apps
 --------
 
@@ -278,7 +182,6 @@ Kernel
 * [K-9 Mail (Free Secure Email Encryption Software)](https://play.google.com/store/apps/details?id=com.fsck.k9&hl=en) - I prefer [K-@ Mail Pro](https://play.google.com/store/apps/details?id=com.onegravity.k10.pro2&hl=en) [it's based on K-9 Mail but with a _better_ gui]
 * [Android open source apps overview | GitHub](https://github.com/pcqpcq/open-source-android-apps)
 * MyLocalAccount (app that doesn't need any cloud to store local contacts)
-
 
 
 Forensics analysis software and apps
