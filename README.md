@@ -1,11 +1,12 @@
-Android Vulnerabilities Overview (AVO) is a small list of security vulnerabilities in Android.
+Android Vulnerabilities Overview (AVO) is a databse of known security vulnerabilities in Android.
+
+The vulnerabilities database is splitted into seperate files to get an better/cleaner overview. 
+The current list is avaible over [here](https://github.com/CHEF-KOCH/Android-Vulnerabilities-Overview/blob/master/2016.md).
 
 
-quote\
 
 _The security flaw gives hacker ability to spy on Android smartphone owners, steal login credentials, install malware, and many more, according to the latest research conducted by the researchers at the Pennsylvania State University and FireEye._
 
-/quote
 
 
 Contact
@@ -82,7 +83,7 @@ How to Get Rid of this Android Ransomware?
 Generally apps that often comes with security risks (due popularity and other weaknesses)
 --------
 
-* [WhatsApp Security Vulnerability (telegraph.co.uk)](http://www.telegraph.co.uk/technology/internet-security/11850817/WhatsApp-security-breach-lets-hackers-target-web-app-users.html) - this is only one example
+* [WhatsApp Security Vulnerability (telegraph.co.uk)](http://www.telegraph.co.uk/technology/internet-security/11850817/WhatsApp-security-breach-lets-hackers-target-web-app-users.html) - this is only one example!
 
 
 
