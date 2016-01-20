@@ -61,6 +61,7 @@ Spyware Capabilities
 Open
 --------
 
+- [ ] [Perception Point](http://perception-point.io/2016/01/14/analysis-and-exploitation-of-a-linux-kernel-vulnerability-cve-2016-0728/) [CVE-2016-0728](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=2016-0728) 
 - [ ] [Java-Script-v8-Engine exploit in Chrome Browser](http://www.theregister.co.uk/2015/11/12/mobile_pwn2own/), no CVE (yet?)
 - [ ] [AppLock](https://blogs.securiteam.com/index.php/archives/2558)
 - [ ] [Google Maps API](https://cryptome.org/2015/07/HT-Google-Maps-API.pdf) (mostly after each new update)
