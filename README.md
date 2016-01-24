@@ -207,17 +207,17 @@ In most cases Trojans/Malware only sending 'stuff' to there C&C's if you're on w
 * [pySimReader](https://www.isecpartners.com/tools/mobile-security/pysimreader.aspx)
 * [Pixiewps](https://github.com/wiire/pixiewps)
 * [Android Vulnerability Test Suite (github.com)](https://github.com/nowsecure/android-vts)
-* [catch-it-quick  -  catch the firmware malware and spyware](https://code.google.com/p/catch-it-quick/)
-* [Google Remote Encryption and wipping function analyzed](http://manhattanda.org/sites/default/files/11.18.15%20Report%20on%20Smartphone%20Encryption%20and%20Public%20Safety.pdf) see ]here](https://plus.google.com/+AdrianLudwig/posts/JFPXLnV3M2f)
+* [catch-it-quick - catch the firmware malware and spyware](https://code.google.com/p/catch-it-quick/)
+* [Google Remote Encryption and wipping function analyzed](http://manhattanda.org/sites/default/files/11.18.15%20Report%20on%20Smartphone%20Encryption%20and%20Public%20Safety.pdf) see [here](https://plus.google.com/+AdrianLudwig/posts/JFPXLnV3M2f)
 
 
 
 Vulnerability Databases
 --------
 
-* [KB.cert.org](https://www.kb.cert.org/vuls/id/924951)
-* [Common Vulnerabilities and Exposures (CVE®) for Android](http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=android)
-* [Android - CVE Details](http://www.cvedetails.com/product/19997/Google-Android.html?vendor_id=1224)
+* [KB.cert.org](https://www.kb.cert.org/vuls/id/924951) - KB Cert
+* [Common Vulnerabilities and Exposures (CVE®) for Android](http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=android) - CVE Mitre
+* [Android - CVE Details](http://www.cvedetails.com/product/19997/Google-Android.html?vendor_id=1224) - CVE Details
 * [All vulnerabilities - Android Vulnerabilities](http://www.androidvulnerabilities.org/all)
 * [NVD](http://nvd.nist.gov/) - US National Vulnerability Database
 * [CERT](http://www.us-cert.gov/) - US Computer Emergency Readiness Team
@@ -233,8 +233,8 @@ Vulnerability Databases
 * [CXSecurity](http://cxsecurity.com/) - CSSecurity Bugtraq List
 * [Vulnerability Laboratory](http://www.vulnerability-lab.com/) - Vulnerability Research Laboratory
 * [ZDI](http://www.zerodayinitiative.com/) - Zero Day Initiative
-* [Exploit Exercises](https://exploit-exercises.com/)
-* [Seclist.org](http://seclists.org/fulldisclosure/2015/)
+* [Exploit Exercises](https://exploit-exercises.com/) - Exploit Exercises
+* [Seclist.org](http://seclists.org/fulldisclosure/2015/) - Seclist
 
 
 
