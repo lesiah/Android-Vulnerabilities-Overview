@@ -65,15 +65,20 @@ Infected apps with Backdoors, Loggers or Ransomware
 * Ghost Push, Braintest, Guaranteed Clicks, RetroTetri based on [Kemoge Malware](http://www.cmcm.com/blog/en/security/2015-10-10/814.html)
 
 
-
-How to Get Rid of this Android Ransomware?
+How to Get Rid of Android Ransomware?
 --------
 
-1.Boot your device into "Safe Mode," as it boots your device with default settings without running any third-party applications and allowing users to delete malicious software.
-2.To uninstall the ransomware from your device, you need to first remove administrator privilege by going to Settings –> Security –> Device Administrator and then select ransomware app and deactivate it.
-3.Once this is done, you can again go to Settings –> Apps –> Uninstall ransomware app.
-4. (optional) If above steps not working, you can try to use an Ransomware Decryption and Malware Removal ToolKit from Google Play or search on the www how to get rid of it.  
+1. Boot your device into "Safe Mode," as it boots your device with default settings without running any third-party applications and allowing users to delete malicious software.
 
+2. To uninstall the ransomware from your device, you need to first remove administrator privilege by going to Settings –> Security –> Device Administrator and then select ransomware app and deactivate it.
+
+
+3. Once this is done, you can again go to Settings –> Apps –> Uninstall ransomware app.
+
+4. (**optional**) If above steps not working, you can try to use an Ransomware Decryption and Malware Removal ToolKit from Google Play or search on the www how to get rid of it.  
+
+
+General words aboout it and already can lower the attacks:
 
 * Don't install apps from outside of the Google Play Store or F-Droid (no, also not from Aptoide!)
 * Don't grant administrator privileges to apps unless you truly trust them!
