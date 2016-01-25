@@ -87,11 +87,11 @@ General words aboout it and already can lower the attacks:
 
 
 
-Generally apps that often comes with security risks (due popularity and other weaknesses)
+Generally apps that often bundled with security risks (due popularity and other weaknesses)
 --------
 
 * [WhatsApp Security Vulnerability (telegraph.co.uk)](http://www.telegraph.co.uk/technology/internet-security/11850817/WhatsApp-security-breach-lets-hackers-target-web-app-users.html) - this is only one example!
-
+* [AppLock](https://play.google.com/store/apps/details?id=com.domobile.applock)
 
 
 Research
@@ -157,7 +157,7 @@ Online tests
 * [BrowserSpy.dk (Browser Fingerprint test)](http://browserspy.dk/)
 * [Testing mixed content](https://people.mozilla.org/~tvyas/mixedcontent.html)
 * [WebRTC check](http://mozilla.github.io/webrtc-landing/)
-* <s>[Adobe Flash player version detector](https://www.adobe.com/software/flash/about/) no Flash support since Android 4.x</s> if you need it use FlashFox or Dolphin Browser
+* <s>[Adobe Flash player version detector](https://www.adobe.com/software/flash/about/) </s> no Flash support since Android 4.x, if you need it please use [FlashFox](https://play.google.com/store/apps/details?id=mobi.browser.flashfox) or [Dolphin Browser](http://dolphin.com/)
 * [IP check](http://ip-check.info/?lang=en)
 * [CORS and WebSocket test](http://cure53.de/leak/onion.php)
 * [Browserrecon](http://www.computec.ch/projekte/browserrecon/)
