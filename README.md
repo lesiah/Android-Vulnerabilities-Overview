@@ -238,12 +238,18 @@ Vulnerability Databases
 
 
 
-Pre-Installed Backdoors (within the firmware)
+Known Pre-Installed Backdoors (within firmware)
 --------
 
 * [CoolReaper](https://public.gdatasoftware.com/Presse/Publikationen/Malware_Reports/G_DATA_MobileMWR_Q2_2015_EN.pdf) (China and Taiwan)
 
 
+Backdoor Discussion
+--------
+
+* [AB1681 suggestion](http://www.leginfo.ca.gov/pub/15-16/bill/asm/ab_1651-1700/ab_1681_bill_20160120_introduced.html)
+* [Cooper Introduces Human Trafficking Evidentiary Access Legislation](http://asmdc.org/members/a09/news-room/press-releases/cooper-introduces-human-trafficking-evidentiary-access-legislation)
+* [Assembly Bill A8093](http://www.nysenate.gov/legislation/bills/2015/a8093)
 
 ‘Stingrays’ Cell Phone Trackers
 --------
