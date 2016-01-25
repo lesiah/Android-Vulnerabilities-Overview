@@ -86,12 +86,7 @@ Research
 * [Security | Android Open Source Project](https://source.android.com/devices/tech/security/)
 * [Crypzo Standard EDU](https://crypto.stanford.edu)
 * [SS7 hack shown demonstrated to track anyone |60 Minutes](http://www.9jumpin.com.au/show/60minutes/stories/2015/august/phone-hacking/)
-* https://source.android.com/devices/tech/index.html
-* https://source.android.com/devices/tech/security/enhancements/enhancements44.html
-* https://source.android.com/devices/tech/security/overview/app-security.html
-* https://source.android.com/devices/tech/security/overview/updates-resources.html
-* https://source.android.com/devices/tech/security/enhancements/index.html
-* https://source.android.com/devices/tech/security/overview/acknowledgements.html
+* [Android AOSP Security Overview](https://source.android.com/devices/tech/index.html)
 * [CIS security overview](http://www.cisecurity.org/)
 * [Mozilla Security Blog](https://blog.mozilla.org/security/category/security/)
 * [Chomium Security FAQ](https://www.chromium.org/Home/chromium-security/security-faq#)
