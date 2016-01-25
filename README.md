@@ -34,8 +34,10 @@ Attacks
 * Cyberterrorism (Data Theft, DOS, ...)
 * Remote Access Tools (RATs)
 * Based on fingerprinting to _sniff_ metadata
+* Impersonation Attack
+* Session Fixation Attack
+* Cache-Poisoning Attack
 * Other data leakage, exploits, ...
-*  ...
 
 
 Spyware Capabilities
