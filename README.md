@@ -77,6 +77,11 @@ Generally apps that often bundled with security risks (due popularity and other 
 
 * [WhatsApp Security Vulnerability (telegraph.co.uk)](http://www.telegraph.co.uk/technology/internet-security/11850817/WhatsApp-security-breach-lets-hackers-target-web-app-users.html) - this is only one example!
 * [AppLock](https://play.google.com/store/apps/details?id=com.domobile.applock)
+* [Android-InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2)
+* [Sieve](https://labs.mwrinfosecurity.com/system/assets/380/original/sieve.apk) Sieve is a password manager app, riddled with security vulnerabilities.
+* [ExploitMe Mobile Android Labs](https://securitycompass.github.io/AndroidLabs/setup.html)
+* [OWASP-GoatDroid-Project](https://github.com/jackMannino/OWASP-GoatDroid-Project)
+* [DIVA](http://www.payatu.com/damn-insecure-and-vulnerable-app/) DIVA (Damn insecure and vulnerable App) is an App intentionally designed to be insecure.
 
 
 Research
@@ -179,6 +184,7 @@ Forensics analysis software and apps
 
 In most cases Trojans/Malware only sending 'stuff' to there C&C's if you're on wifi (to not getting easier detected by the bandwith consumpation itself), of course they often drain your battery, so some tools are to detect such cases and identifys them (like Hush) such tools can be used to reveal what exactly going on behind the scenes. 
 
+* [Android Connections Forensics](https://github.com/CyberHatcoil/ACF)
 * [Androick](https://github.com/Flo354/Androick)
 * [Android Forensics Open Source Android Forensics App and Framework](https://github.com/viaforensics/android-forensics)
 * [Android Data Extractor Lite](https://github.com/mspreitz/ADEL)
