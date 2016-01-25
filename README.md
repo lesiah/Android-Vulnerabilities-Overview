@@ -1,7 +1,7 @@
 Android Vulnerabilities Overview (AVO) is a databse of known security vulnerabilities in Android.
 
-The vulnerabilities database is splitted into seperate files to get an better/cleaner overview. 
-The current list is avaible over [here](https://github.com/CHEF-KOCH/Android-Vulnerabilities-Overview/blob/master/2016.md).
+The vulnerabilities database is splitted into seperate .md files to get an better and cleaner overview. 
+The current 2016 list is avaible over [here](https://github.com/CHEF-KOCH/Android-Vulnerabilities-Overview/blob/master/2016.md).
 
 
 
@@ -21,7 +21,10 @@ Want to communicate secure, feel free - my eMail public key is stored in the 'eM
 Warning
 --------
 
-* Do not install security updates like _CVE-2015-1538.apk_ from untrusted sources! It's a trap! Security updates are rolled out by Google Play-services or as ROM directly from your provider and never comes as single .APK!
+Do not install security updates like _CVE-2015-1538.apk_ from untrusted sources! It's a trap! 
+
+
+Security updates are rolled out by Google Play-services (in background) or as ROM update directly from your provider and never comes as single .APK!
 
 
 Attacks
@@ -64,26 +67,7 @@ Infected apps with Backdoors, Loggers or Ransomware
 * FreePorn
 * [LockerPin](http://www.welivesecurity.com/2015/09/10/aggressive-android-ransomware-spreading-in-the-usa/) (Ransomware)
 * [Kemoge Malware which infects several apps]()https://www.fireeye.com/blog/threat-research/2015/10/kemoge_another_mobi.html), see all [affected apps](https://www.fireeye.com/blog/threat-research/2015/10/kemoge_another_mobi.html)
-* Ghost Push, Braintest, Guaranteed Clicks, RetroTetri based on [Kemoge Malware](http://www.cmcm.com/blog/en/security/2015-10-10/814.html)
-
-
-How to Get Rid of Android Ransomware?
---------
-
-1. Boot your device into "Safe Mode," as it boots your device with default settings without running any third-party applications and allowing users to delete malicious software.
-
-2. To uninstall the ransomware from your device, you need to first remove administrator privilege by going to Settings –> Security –> Device Administrator and then select ransomware app and deactivate it.
-
-
-3. Once this is done, you can again go to Settings –> Apps –> Uninstall ransomware app.
-
-4. (**optional**) If above steps not working, you can try to use an Ransomware Decryption and Malware Removal ToolKit from Google Play or search on the www how to get rid of it.  
-
-
-General words aboout it and already can lower the attacks:
-
-* Don't install apps from outside of the Google Play Store or F-Droid (no, also not from Aptoide!)
-* Don't grant administrator privileges to apps unless you truly trust them!
+* [Ghost Push](http://blog.trendmicro.com/trendlabs-security-intelligence/new-ghost-push-variants-sport-guard-code-malware-creator-published-over-600-bad-android-apps/), Braintest, Guaranteed Clicks, RetroTetri based on [Kemoge Malware](http://www.cmcm.com/blog/en/security/2015-10-10/814.html)
 
 
 
@@ -174,6 +158,7 @@ Kernel
 
 * [Kernel Overview | Android Developers](https://source.android.com/devices/tech/kernel.html)
 * [Kernel Security Overview | Android Developers](https://source.android.com/devices/tech/security/overview/kernel-security.html)
+* [Android Kernel Security | eLinux](http://www.elinux.org/Android_Security)
 
 
 'Security' (pentesting) Apps
