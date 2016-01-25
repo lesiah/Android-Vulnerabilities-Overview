@@ -237,6 +237,7 @@ Vulnerability Databases
 * [ZDI](http://www.zerodayinitiative.com/) - Zero Day Initiative
 * [Exploit Exercises](https://exploit-exercises.com/) - Exploit Exercises
 * [Seclist.org](http://seclists.org/fulldisclosure/2015/) - Seclist
+* [AVO - Android Vulnerabilities Overview ](http://androidvulnerabilities.org/) - AndroidVulnerabilities
 
 
 
