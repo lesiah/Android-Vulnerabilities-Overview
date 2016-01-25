@@ -40,6 +40,7 @@ Attacks
 * Impersonation Attack
 * Session Fixation Attack
 * Cache-Poisoning Attack
+* Heap thermal vision problems due attacks/bugs
 * Other data leakage, exploits, ...
 
 
@@ -103,6 +104,7 @@ Research
 * [Most vulnerable Operating Systems and applications in 2014](http://www.gfi.com/blog/most-vulnerable-operating-systems-and-applications-in-2014/)
 * [Discovered the first Android ransomware that sets the PIN lock (welivesecurity.com)](http://www.welivesecurity.com/2015/09/10/aggressive-android-ransomware-spreading-in-the-usa/)
 * [The Android device fragmentation is getting, beautifully, out of control (opensignal.com)](http://opensignal.com/reports/2015/08/android-fragmentation/)
+* [Bits, Please](http://bits-please.blogspot.de/)
 
 
 Papers
