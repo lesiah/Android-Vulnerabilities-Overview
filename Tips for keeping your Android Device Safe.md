@@ -31,3 +31,8 @@ Android Apps (once click solutions):
 --------
 
 * [Android Vulnerability Test Suite (VTS)](https://play.google.com/store/apps/details?id=com.nowsecure.android.vts) & [Source](https://github.com/nowsecure/android-vts)
+* [Android IMSI-Catcher-Detector](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector)
+* [Am I Vulnerable](http://delhi.securitycompass.com/)
+* [Koodus](https://koodous.com/)
+* [SecureMe Droid (SMD)](https://securitycompass.com/secureme/)
+* [NetHunter](https://www.kali.org/kali-linux-nethunter/)
