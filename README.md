@@ -110,6 +110,7 @@ Research
 * [Discovered the first Android ransomware that sets the PIN lock (welivesecurity.com)](http://www.welivesecurity.com/2015/09/10/aggressive-android-ransomware-spreading-in-the-usa/)
 * [The Android device fragmentation is getting, beautifully, out of control (opensignal.com)](http://opensignal.com/reports/2015/08/android-fragmentation/)
 * [Bits, Please](http://bits-please.blogspot.de/)
+* [Reddit Vulnerability Research and Development r/vrd](https://www.reddit.com/r/vrd)
 
 
 Papers
@@ -123,6 +124,7 @@ Papers
 * http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/Documentation/stable_api_nonsense.txt
 * [Security Metrics for the Android Ecosystem](https://www.cl.cam.ac.uk/~drt24/papers/spsm-scoring.pdf)
 * [Android Compatibility Definition Document v2015](https://static.googleusercontent.com/media/source.android.com/en//compatibility/android-cdd.pdf)
+* [Real-world Stagefright exploitation notes on Android 5.x [pdf]](https://www.nccgroup.trust/globalassets/our-research/uk/whitepapers/2016/01/libstagefright-exploit-notespdf/)
 
 
 Videos
@@ -177,6 +179,7 @@ Kernel
 * [K-9 Mail (Free Secure Email Encryption Software)](https://play.google.com/store/apps/details?id=com.fsck.k9&hl=en) - I prefer [K-@ Mail Pro](https://play.google.com/store/apps/details?id=com.onegravity.k10.pro2&hl=en) [it's based on K-9 Mail but with a _better_ gui]
 * [Android open source apps overview | GitHub](https://github.com/pcqpcq/open-source-android-apps)
 * MyLocalAccount (app that doesn't need any cloud to store local contacts)
+* [DIVA Android - Damn Insecure and vulnerable App for Android](https://github.com/payatu/diva-android)
 
 
 Forensics analysis software and apps
@@ -184,6 +187,7 @@ Forensics analysis software and apps
 
 In most cases Trojans/Malware only sending 'stuff' to there C&C's if you're on wifi (to not getting easier detected by the bandwith consumpation itself), of course they often drain your battery, so some tools are to detect such cases and identifys them (like Hush) such tools can be used to reveal what exactly going on behind the scenes. 
 
+* [Androl4b](https://github.com/sh4hin/Androl4b)
 * [Android Connections Forensics](https://github.com/CyberHatcoil/ACF)
 * [Androick](https://github.com/Flo354/Androick)
 * [Android Forensics Open Source Android Forensics App and Framework](https://github.com/viaforensics/android-forensics)
