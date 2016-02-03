@@ -36,3 +36,8 @@ Android Apps (once click solutions):
 * [Koodus](https://koodous.com/)
 * [SecureMe Droid (SMD)](https://securitycompass.com/secureme/)
 * [NetHunter](https://www.kali.org/kali-linux-nethunter/)
+
+
+Broken screen? How to backup your data from a broken Android 
+--------
+* [Broken screen? How to backup your data from a broken Android (hostilejourney.com)](http://www.hostilejourney.com/how-to-backup-your-photos-from-a-broken-android/)
