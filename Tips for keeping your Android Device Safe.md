@@ -41,3 +41,15 @@ Android Apps (once click solutions):
 Broken screen? How to backup your data from a broken Android 
 --------
 * [Broken screen? How to backup your data from a broken Android (hostilejourney.com)](http://www.hostilejourney.com/how-to-backup-your-photos-from-a-broken-android/)
+
+
+
+SMS protection
+--------
+
+* Never ever open attachments from unknown sources.
+* Never click on links in SMS or MMS messages sent to your phone.
+* Even if the email looks legit, go directly to the source website and verify any possible updates.
+* Go to Settings - Security - Turn OFF "Allow installation of apps from sources other than the Play Store" option.
+* Always keep an up-to-date Anti-virus app on your Android devices.
+* Avoid unknown and unsecured Wi-Fi hotspots and Keep your Wi-Fi turned OFF when not in use.
