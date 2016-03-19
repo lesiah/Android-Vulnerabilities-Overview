@@ -135,8 +135,9 @@ Papers
 Videos
 --------
 
-* [This Mind-Blowing Hack allows Anyone to Control your Phone From 16 Feet Away](https://youtu.be/l9txd4a4tUE) (no CVE since this is by design from Google Now, but still a hack/problem)
-* ['Shedun' gaining accessibility service privileges](https://www.youtube.com/watch?v=VDWmEUm6mQM)
+* [This Mind-Blowing Hack allows Anyone to Control your Phone From 16 Feet Away (youtube.com)](https://youtu.be/l9txd4a4tUE) (no CVE since this is by design from Google Now, but still a hack/problem)
+* ['Shedun' gaining accessibility service privileges (youtube.com](https://www.youtube.com/watch?v=VDWmEUm6mQM)
+* [Metaphor - Stagefright Exploitation Breaking ASLR (youtube.com)](https://www.youtube.com/watch?v=I507kD0zG6k)
 
 
 Online tests
@@ -159,7 +160,6 @@ Online tests
 * [RC4 fallback test](https://rc4.io/)
 * [Battery API check](https://robnyman.github.io/battery/)
 * [Testing TLS/SSL encryption (testssl.sh)](https://testssl.sh/)
-
 
 
 Kernel
