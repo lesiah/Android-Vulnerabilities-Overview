@@ -1,4 +1,5 @@
-* Re-write most part because I'm not happy with it, looks awful and confuses people 
-* Add a new structure Name of Issue / CVE / Severity / Possible Link / Comment 
+* Re-write most part because I'm not happy with it's current look, looks awful and confuses people ?!
+* Add a new structure Name of Issue / CVE / Severity / Possible Link / Comment ^^
 * Maybe add an automatically system to stay in sync with Google's official Bulletin's: https://source.android.com/security/bulletin/index.html
+* https://www.aclu.org/blog/speak-freely/map-shows-how-apple-fbi-fight-was-about-much-more-one-phone
 * .... 
