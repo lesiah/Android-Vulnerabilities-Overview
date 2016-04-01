@@ -185,6 +185,7 @@ Kernel
 * [Android open source apps overview | GitHub](https://github.com/pcqpcq/open-source-android-apps)
 * MyLocalAccount (app that doesn't need any cloud to store local contacts)
 * [DIVA Android - Damn Insecure and vulnerable App for Android](https://github.com/payatu/diva-android)
+* [cSploit](https://github.com/cSploit/android) which comes with [Metasploit](https://www.metasploit.com/)
 
 
 Forensics analysis software and apps
