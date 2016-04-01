@@ -260,7 +260,7 @@ The authorities used these tracking tools for years to breach people's privacy a
 
 * [2015 FBI Statement](http://www.justice.gov/opa/pr/justice-department-announces-enhanced-policy-use-cell-site-simulators)
 * [Confirmation](https://www.aclu.org/news/aclu-comment-new-justice-department-guidelines-secretive-stingray-surveillance-devices) & [full source](http://www.justice.gov/opa/file/767321/download)
-
+* [Android Silent SMS Ping example app](https://github.com/itds-consulting/android-silent-ping-sms)
 
 
 Firewall Leak Tests
