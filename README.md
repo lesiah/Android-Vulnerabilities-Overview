@@ -100,7 +100,7 @@ Research
 * [CIS security overview](http://www.cisecurity.org/)
 * [Mozilla Security Blog](https://blog.mozilla.org/security/category/security/)
 * [Chomium Security FAQ](https://www.chromium.org/Home/chromium-security/security-faq#)
-* [Android Vulnerability overview | TheHackerNews](http://thehackernews.com/search/label/Android)
+* [Android Vulnerability Overview | TheHackerNews](http://thehackernews.com/search/label/Android)
 * [Beyond Security Team](https://blogs.securiteam.com/)
 * [The Difference Between a Vulnerability Assessment and a Penetration Test (danielmiessler.com)](https://danielmiessler.com/essays/vulnerability_assessment_penetration_test/)
 * [Why SIM Cards Are at Risk--Rising Threat from Differential Power Analysis (semiengineering.com)](http://semiengineering.com/rising-threats-from-differential-power-analysis/)
@@ -151,7 +151,7 @@ Online tests
 * [BrowserSpy.dk (Browser Fingerprint test)](http://browserspy.dk/)
 * [Testing mixed content](https://people.mozilla.org/~tvyas/mixedcontent.html)
 * [WebRTC check](http://mozilla.github.io/webrtc-landing/)
-* <s>[Adobe Flash player version detector](https://www.adobe.com/software/flash/about/) </s> no Flash support since Android 4.x, if you need it please use [FlashFox](https://play.google.com/store/apps/details?id=mobi.browser.flashfox) or [Dolphin Browser](http://dolphin.com/)
+* <s>[Adobe Flash player version detector](https://www.adobe.com/software/flash/about/) </s> no Flash support since Android 4.x, if you need it please use [FlashFox](https://play.google.com/store/apps/details?id=mobi.browser.flashfox) or [Dolphin Browser](http://dolphin.com/).
 * [IP check](http://ip-check.info/?lang=en)
 * [CORS and WebSocket test](http://cure53.de/leak/onion.php)
 * [Browserrecon](http://www.computec.ch/projekte/browserrecon/)
@@ -177,7 +177,7 @@ Kernel
 * [TextSecure](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=en) (SMS encryption was removed)
 * [RedPhone](https://play.google.com/store/apps/details?id=org.thoughtcrime.redphone&hl=en) (Stores the private key on there servers)
 * [Crypt4All Lite (AES) - (Free File Encryption Software)](https://play.google.com/store/apps/details?id=com.codewell4.Crypt4AllLite)
-* [Orbot](https://play.google.com/store/apps/details?id=org.torproject.android) alias Tor for Android 
+* [Orbot](https://play.google.com/store/apps/details?id=org.torproject.android) alias 'Tor for Android' 
 * [(AppLock (Free Application Lock Utility)](https://play.google.com/store/apps/details?id=com.domobile.applock)
 * [App Ops (Free App Permission Manager)](https://play.google.com/store/apps/details?id=com.findsdk.apppermission) On Android 6 (Marshmellow) obsolete
 * [LastPass Password Manager Premium (Free)](https://play.google.com/store/apps/details?id=com.lastpass.lpandroid) personally I prefer [KeePass - alias KeePassDroid](https://play.google.com/store/apps/details?id=com.android.keepass&hl=en)
@@ -191,7 +191,7 @@ Kernel
 Forensics analysis software and apps
 --------
 
-In most cases Trojans/Malware only sending 'stuff' to there C&C's if you're on wifi (to not getting easier detected by the bandwith consumpation itself), of course they often drain your battery, so some tools are to detect such cases and identifys them (like Hush) such tools can be used to reveal what exactly going on behind the scenes. 
+In most cases Trojans/Malware only sending 'stuff' to there C&C's if you're on wifi (to not getting easier detected by the bandwidth consumptation itself), of course they often drain your battery, so some tools are to detect such cases and identifys them (like Hush) such tools can be used to reveal what exactly going on behind the scenes. 
 
 * [Androl4b](https://github.com/sh4hin/Androl4b)
 * [Android Connections Forensics](https://github.com/CyberHatcoil/ACF)
@@ -251,6 +251,7 @@ Backdoor Discussion
 * [AB1681 suggestion](http://www.leginfo.ca.gov/pub/15-16/bill/asm/ab_1651-1700/ab_1681_bill_20160120_introduced.html)
 * [Cooper Introduces Human Trafficking Evidentiary Access Legislation](http://asmdc.org/members/a09/news-room/press-releases/cooper-introduces-human-trafficking-evidentiary-access-legislation)
 * [Assembly Bill A8093](http://www.nysenate.gov/legislation/bills/2015/a8093)
+
 
 ‘Stingrays’ Cell Phone Trackers
 --------
