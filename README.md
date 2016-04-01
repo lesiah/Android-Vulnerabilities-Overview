@@ -34,18 +34,18 @@ Security updates are rolled out by Google Play-services (in background) or as RO
 Attacks
 --------
 
-* Ransomware (User needs to confirm the device admin part)
-* Distributed Denial of Service (DDoS)
+* [Ransomware](https://en.wikipedia.org/wiki/Ransomware) (User needs to confirm the device admin part)
+* [Distributed Denial of Service](https://en.wikipedia.org/wiki/DDoS_mitigation) (DDoS)
 * [Cyber-attacks](https://en.wikipedia.org/wiki/Cyber-attack) like (mass) surveillance (e.g. directly on telecommunication infrastructures), worms, viruses, trojans, ...
-* Hijacking in Android is a common problem
-* Cyberterrorism (Data Theft, DOS, ...)
-* Remote Access Tools (RATs)
-* Based on fingerprinting to _sniff_ metadata
-* Impersonation Attack
-* Session Fixation Attack
-* Cache-Poisoning Attack
-* Heap thermal vision problems due attacks/bugs
-* Other data leakage, exploits, ...
+* [Hijacking](https://en.wikipedia.org/wiki/A_Hijacking) in Android is a common problem, see also [Clickjacking](https://en.wikipedia.org/wiki/Clickjacking)
+* [Cyberterrorism](https://en.wikipedia.org/wiki/Cyberterrorism) (Data Theft, DOS, ...)
+* [Remote Access Tools](https://en.wikipedia.org/wiki/Remote_administration_software) (RATs)
+* [Fingerprinting](https://en.wikipedia.org/wiki/TCP/IP_stack_fingerprinting) to _sniff_ metadata
+* [Impersonation Attack](http://link.springer.com/referenceworkentry/10.1007%2F0-387-23483-7_196)
+* [Session Fixation Attack](https://en.wikipedia.org/wiki/Session_fixation)
+* [Cache-Poisoning Attack](https://en.wikipedia.org/wiki/DNS_spoofing)
+* Heap thermal vision problems attacks/bugs
+* Other data leakage, exploits, 0day, ...
 
 
 Spyware Capabilities
