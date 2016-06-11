@@ -236,6 +236,7 @@ Vulnerability Databases
 * [Exploit Exercises](https://exploit-exercises.com/) - Exploit Exercises
 * [Seclist.org](http://seclists.org/fulldisclosure/2015/) - Seclist
 * [AVO - Android Vulnerabilities Overview ](http://androidvulnerabilities.org/) - AndroidVulnerabilities
+* [Exploits Project by 4B5F5F4B (GitHub.com)](https://github.com/4B5F5F4B/Exploits)
 
 
 
