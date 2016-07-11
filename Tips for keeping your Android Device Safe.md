@@ -53,3 +53,9 @@ SMS protection
 * Go to Settings - Security - Turn OFF "Allow installation of apps from sources other than the Play Store" option.
 * Always keep an up-to-date Anti-virus app on your Android devices.
 * Avoid unknown and unsecured Wi-Fi hotspots and Keep your Wi-Fi turned OFF when not in use.
+
+
+FAQ (Common questions and answers) for Developers
+------
+
+https://source.android.com/security/bulletin/2016-07-01.html#common-questions-and-answers

@@ -1,0 +1,14 @@
+Changes to Trusted Certificate Authorities in Android Nougat
+
+
+Quick overview:
+* It's not anymore with N (Nougat) 7.0 that apps can change your device password without special dialogs and warnings + user interactions
+* New certificate management via Opt-in, which means only pre-isntalled certs are allowed anymore (Adguard's certificate will still work because you get this Opt-In dialog).
+
+
+Via:
+https://android-developers.blogspot.de/2016/07/changes-to-trusted-certificate.html 
+https://wiki.mozilla.org/CA:How_to_apply
+https://code.google.com/p/android/issues/entry
+https://news.ycombinator.com/item?id=12061320
+http://www.symantec.com/connect/blogs/android-nougat-prevents-ransomware-resetting-device-passwords
