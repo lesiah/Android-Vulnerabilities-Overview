@@ -116,6 +116,7 @@ Research
 * [Bits, Please](http://bits-please.blogspot.de/)
 * [Reddit Vulnerability Research and Development r/vrd](https://www.reddit.com/r/vrd)
 * [SecurityTube](http://www.securitytube.net)
+* [Project Zero](https://googleprojectzero.blogspot.de/)
 
 
 Papers
