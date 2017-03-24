@@ -2,7 +2,7 @@
 
 ***
 
-**Android Vulnerabilities Overview (AVO) is a databse of known security vulnerabilities in Android.**
+**Android Vulnerabilities Overview (AVO) is a database of known security vulnerabilities in Android.**
 
 The vulnerabilities database is splitted into seperate .md files to get an better and cleaner overview. 
 The current 2016 list is avaible over [here](https://github.com/CHEF-KOCH/Android-Vulnerabilities-Overview/blob/master/2016.md).
